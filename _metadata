@@ -1,0 +1,18 @@
+{
+  "friendlyName" : "Spooky Integrations",
+  "description" : "It doesn't stop at vanilla. A mod to mod all other mods for the Spooky Tweaks universe.",
+  "name" : "spookyIntegrations",
+  "priority" : 1,
+  "tags" : "Miscellaneous",
+  "version" : "1.0",
+  "includes" : [
+    "Avali", "Familiars", "mechavali",
+    "Enhanced Storage", "az-restoredstaves",
+    "Universal Uncrafter v1.46", "Explorerpod",
+    "The Erchius EPP", "GhostBlocker", "InstruPlus",
+    "hdpianos", "Dubstep Gun", "Otamatone Instrument",
+    "Chiptune Synthesizer", "The Musical Frying Pan", "Kazoo",
+    "Bagpipe", "Steven's Ukelele", "Annoying dog instrument",
+    "Mighty Music Instruments!", "az-expandedmagnorbs", "EES"
+    ]
+}
