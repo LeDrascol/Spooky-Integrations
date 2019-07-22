@@ -1,0 +1,19 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/mechlegsnaeroa/stats/speed",
+      "value": 6
+    },
+    {
+      "op": "replace",
+      "path": "/mechlegsnaeroa/stats/speed",
+      "value": 7
+    },
+    {
+      "op": "replace",
+      "path": "/mechlegsnaeroa/stats/jump",
+      "value": 7
+    }
+  ]
+]

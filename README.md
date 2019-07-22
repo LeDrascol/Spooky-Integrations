@@ -2,32 +2,30 @@
 
 Spooky Integrations is a companion mod for Spooky Tweaks that expands the overhauling into other mods. The end result is a consistent game experience across the modded environment, using the style and balance provided in Spooky Tweaks.
 
-Like in ST, this mod adds no __new__ save-altering content! You can add and remove it at any time without destroying your saves. Please remember to always make save backups when using mods.
+Like in Spooky Tweaks, this mod adds no __new__ save-altering content! You can add and remove it at any time without destroying your saves. Please remember to always make save backups when using mods.
 
 ### Project Links
  - [Steam Workshop]()
  - [Chucklefish Forums]()
- - [Starbound Nexus]()
 
 # Project Highlights
- ## General
- - Instruments are one handed, rare, worth 2000 pixels, and sold by Chip Tunes
- - Themed alternative items match vanilla tweaks (ex Avali Flashlight)
- - Crafting stations moved to different tiers of the inventors table
- - Teleporters are platforms, and can be recovered when broken
- - Moon related things are just as spooky
- - Staves and wands take 0.6s to charge
+## General
+- Instruments are one handed, rare, worth 2000 pixels, and sold by Chip Tunes
+- Themed alternative items match vanilla tweaks (ex Avali Flashlight)
+- Crafting stations moved to different tiers of the inventors table
+- Teleporters are platforms, and can be recovered when broken
+- Moon related things are just as spooky
+- Staves and wands take 0.6s to charge
 
-
- **Mod Specific**
- - Magnorb shields have no energy cost when using Expanded Magnorbs
- - Endgame Avali items are more powerful than vanilla items
- - All in one Erchius EPP can't be crafted due to being OP
- - No Ghost Augment is worth less to prevent money exploits
- - Explorepods are sold for 30,000 pixels
- - Purple Stim Pack only lasts for 180s
- - Shipments always sell for 100%
- - Transmutation tables support unused ore items
+**Mod Specific**
+- Magnorb shields have no energy cost when using Expanded Magnorbs
+- Endgame Avali items are more powerful than vanilla items
+- All in one Erchius EPP can't be crafted due to being OP
+- No Ghost Augment is worth less to prevent money exploits
+- Explorepods are sold for 30,000 pixels
+- Purple Stim Pack only lasts for 180s
+- Shipments always sell for 100%
+- Transmutation tables support unused ore items
 
 # Official Integration
 The mods listed below are patched to use this mod's balance

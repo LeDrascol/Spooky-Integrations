@@ -1,0 +1,37 @@
+[
+  {
+    "op": "test",
+    "path": "/tooltipKind",
+    "value": "vanillamagnorb"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "magnorb"
+  },
+  {
+    "op": "add",
+    "path": "/builder",
+    "value": "/scripts/buildnorb.lua"
+  },
+  {
+    "op": "add",
+    "path": "/orbTotal",
+    "value": 3
+  },
+  {
+    "op": "add",
+    "path": "/shieldHealth",
+    "value": 130
+  },
+  {
+    "op": "replace",
+    "path": "/scripts/0",
+    "value": "/scripts/dynamicnorb.lua"
+  },
+  {
+    "op": "replace",
+    "path": "/shieldEnergyCost",
+    "value": 0
+  }
+]

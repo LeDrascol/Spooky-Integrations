@@ -1,0 +1,31 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/mechboosternaeroap/stats/speed",
+      "value": 6
+    },
+    {
+      "op": "replace",
+      "path": "/mechboosternaeroap/stats/speed",
+      "value": 8
+    },
+    {
+      "op": "replace",
+      "path": "/mechboosternaeroap/stats/control",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/mechboosternaeroan/stats/speed",
+      "value": 5
+    },
+    {
+      "op": "replace",
+      "path": "/mechboosternaeroan/stats/speed",
+      "value": 7
+    }
+  ]
+]
