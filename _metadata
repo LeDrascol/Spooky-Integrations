@@ -14,5 +14,6 @@
     "Chiptune Synthesizer", "The Musical Frying Pan", "Kazoo",
     "Bagpipe", "Steven's Ukelele", "Annoying dog instrument",
     "Mighty Music Instruments!", "az-expandedmagnorbs", "EES"
-    ]
+  ],
+  "requires" : [ "spookyTweaks" ]
 }
