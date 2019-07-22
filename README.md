@@ -8,27 +8,8 @@ Like in Spooky Tweaks, this mod adds no __new__ save-altering content! You can a
  - [Steam Workshop]()
  - [Chucklefish Forums]()
 
-# Project Highlights
-## General
-- Instruments are one handed, rare, worth 2000 pixels, and sold by Chip Tunes
-- Themed alternative items match vanilla tweaks (ex Avali Flashlight)
-- Crafting stations moved to different tiers of the inventors table
-- Teleporters are platforms, and can be recovered when broken
-- Moon related things are just as spooky
-- Staves and wands take 0.6s to charge
-
-**Mod Specific**
-- Magnorb shields have no energy cost when using Expanded Magnorbs
-- Endgame Avali items are more powerful than vanilla items
-- All in one Erchius EPP can't be crafted due to being OP
-- No Ghost Augment is worth less to prevent money exploits
-- Explorepods are sold for 30,000 pixels
-- Purple Stim Pack only lasts for 180s
-- Shipments always sell for 100%
-- Transmutation tables support unused ore items
-
 # Official Integration
-The mods listed below are patched to use this mod's balance
+The mods listed below are patched to use Spooky Tweaks' balance
 - [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
 - [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
 - [Avali Modular Mech](https://steamcommunity.com/sharedfiles/filedetails/?id=950340366)
@@ -53,3 +34,22 @@ The mods listed below are music mods integrated into the Chip Tunes shop
 - [Steven's Ukelele](https://steamcommunity.com/sharedfiles/filedetails/?id=756993265)
 - [Annoying Dog Instrument](https://steamcommunity.com/sharedfiles/filedetails/?id=733366979)
 - [Mighty Music Instruments](https://steamcommunity.com/sharedfiles/filedetails/?id=740921702)
+
+# Project Highlights
+**General**
+- Instruments are one handed, rare, worth 2000 pixels, and sold by Chip Tunes
+- Themed alternative items match vanilla tweaks (ex Avali Flashlight)
+- Crafting stations moved to different tiers of the inventors table
+- Teleporters are platforms, and can be recovered when broken
+- Moon related things are just as spooky
+- Staves and wands take 0.6s to charge
+
+**Mod Specific**
+- Magnorb shields have no energy cost when using Expanded Magnorbs
+- Endgame Avali items are more powerful than vanilla items
+- All in one Erchius EPP can't be crafted due to being OP
+- No Ghost Augment is worth less to prevent money exploits
+- Explorepods are sold for 30,000 pixels
+- Purple Stim Pack only lasts for 180s
+- Shipments always sell for 100%
+- Transmutation tables support unused ore items
