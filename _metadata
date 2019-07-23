@@ -13,7 +13,8 @@
     "hdpianos", "Dubstep Gun", "Otamatone Instrument",
     "Chiptune Synthesizer", "The Musical Frying Pan", "Kazoo",
     "Bagpipe", "Steven's Ukelele", "Annoying dog instrument",
-    "Mighty Music Instruments!", "az-expandedmagnorbs", "EES"
+    "Mighty Music Instruments!", "az-expandedmagnorbs", "EES",
+    "Flashlight Attachment for NORMAL Grappling Hook"
   ],
   "requires" : [ "spookyTweaks" ]
 }

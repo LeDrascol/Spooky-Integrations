@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/animatedParts/parts/rope/properties/image",
+    "value": "grapplight.png"
+  },
+  {
+    "op": "replace",
+    "path": "/lights/flashlightSpread/active",
+    "value": false
+  }
+]

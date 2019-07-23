@@ -1,4 +1,4 @@
-# Ported from Spooky Tweaks
+## Ported from Spooky Tweaks
 ### Avali
 **Update 5**
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
@@ -244,5 +244,11 @@
 + Added T2 Mine transmutation for Platinum Ore
 + Added T3 Mine transmutation for Prism Shard
 
-# Original Changes
-None yet.
+## Original Release
+### Flashlight Attachment for NORMAL Grappling Hook
++ **For the one item:**
++ Price change from 3050 PIXELS to 1800 PIXELS
++ Reduced rarity rank from Legendary to Uncommon
++ Reduced projectile speed from 100 to 65
++ Increased time to live from 0.35 to 2.5
++ Removed ambient light effect
