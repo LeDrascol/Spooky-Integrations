@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "meltingblockaugment"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "value": "Magma Mitigation"
+  }
+]

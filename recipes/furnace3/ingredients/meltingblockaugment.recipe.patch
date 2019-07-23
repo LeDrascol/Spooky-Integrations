@@ -1,0 +1,21 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "meltingblockaugment"
+  },
+	{
+    "op": "replace",
+    "path": "/groups",
+    "value": [ "researchstation" ]
+  },
+	{
+	"op": "replace",
+	"path": "/input/2/count",
+	"value": 5
+	},
+	{
+		"op": "remove",
+		"path": "/input/3"
+	}
+]

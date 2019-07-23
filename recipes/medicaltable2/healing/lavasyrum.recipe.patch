@@ -1,0 +1,16 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "lavasyrum"
+  },
+	{
+    "op": "remove",
+    "path": "/input/1"
+  },
+  {
+    "op": "replace",
+    "path": "/groups/1",
+    "value": "buffs"
+  }
+]

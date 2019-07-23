@@ -252,3 +252,13 @@
 + Reduced projectile speed from 100 to 65
 + Increased time to live from 0.35 to 2.5
 + Removed ambient light effect
+
+### Lava Resist Augment
++ Moved crafting tab from Healing to Buffs for unLava Syrum
++ Removed crafting component Phase Matter from unLava Syrum
++ **For the one augment:**
++ Renamed Lava Resist Augment to Magma Mitigation Augment
++ Moved crafting from Atomic Furnace to Research Station
++ Removed crafting component Core Fragment
++ Increased crafting component from 1 to 5 for Cryonic Extract
++ Changed equipped description to 'Magma Mitigation' to match vanilla status effect
