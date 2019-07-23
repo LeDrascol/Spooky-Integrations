@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "hoverbikecontrollerbrown"
+  },
+  {
+    "op": "add",
+    "path": "/twoHanded",
+    "value": false
+  }
+]

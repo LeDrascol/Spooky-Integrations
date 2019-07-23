@@ -277,3 +277,20 @@
 + Changed hand-use to 1H for Hylotl Hoverbike
 + Price change from 13,000 PIXELS to 11,000 PIXELS for Avian Hoverbike
 + Price change from 13,000 PIXELS to 11,000 PIXELS for Hylotl Hoverbike
+
+### Full Spectrum Hoverbikes
++ Price change from 13,000 PIXELS to 11,000 PIXELS for Black Hoverbike Controller
++ Price change from 13,000 PIXELS to 11,000 PIXELS for Grey Hoverbike Controller
++ Price change from 13,000 PIXELS to 11,000 PIXELS for Orange Hoverbike Controller
++ Price change from 13,000 PIXELS to 11,000 PIXELS for Pink Hoverbike Controller
++ Price change from 13,000 PIXELS to 11,000 PIXELS for Purple Hoverbike Controller
++ Price change from 13,000 PIXELS to 11,000 PIXELS for Yellow Hoverbike Controller
++ Changed hand-use to 1H for Black Hoverbike Controller
++ Changed hand-use to 1H for Blue Hoverbike Controller
++ Changed hand-use to 1H for Brown Hoverbike Controller
++ Changed hand-use to 1H for Grey Hoverbike Controller
++ Changed hand-use to 1H for Orange Hoverbike Controller
++ Changed hand-use to 1H for Pink Hoverbike Controller
++ Changed hand-use to 1H for Purple Hoverbike Controller
++ Changed hand-use to 1H for White Hoverbike Controller
++ Changed hand-use to 1H for Yellow Hoverbike Controller
