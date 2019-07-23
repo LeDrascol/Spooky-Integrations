@@ -262,3 +262,11 @@
 + Removed crafting component Core Fragment
 + Increased crafting component from 1 to 5 for Cryonic Extract
 + Changed equipped description to 'Magma Mitigation' to match vanilla status effect
+
+### Rusty And Rainbow Hoverbikes
++ Price change from 750 PIXELS to 8000 PIXELS for Rusty Hoverbike Controller
++ Price change from 50000 PIXELS to 20000 PIXELS for Rainbow Hoverbike Controller
++ Changed hand-use to 1H for Rusty Hoverbike Controller
++ Changed hand-use to 1H for Rainbow Hoverbike Controller
++ Updated description for Rusty Hoverbike Controller to be more immersive
++ Updated description for Rainbow Hoverbike Controller to be more immersive

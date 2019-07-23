@@ -23,6 +23,7 @@ The mods listed below are patched to use Spooky Tweaks' balance
 - [EE for Starbound](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104)
 - [Flashlight Attachment for NORMAL Grappling Hook](https://steamcommunity.com/sharedfiles/filedetails/?id=1114913297)
 - [Lava Resist Augment](https://steamcommunity.com/sharedfiles/filedetails/?id=747861465)
+- [Rusty And Rainbow Hoverbikes](https://steamcommunity.com/sharedfiles/filedetails/?id=732525291)
 
 The mods listed below are music mods integrated into the Chip Tunes shop
 - [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)

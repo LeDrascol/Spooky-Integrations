@@ -1,0 +1,22 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "hoverbikecontrollerrainbow"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 20000
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An aftermarket hoverbike with a high power auto drive."
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "hoverbikecontrollerrusty"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 8000
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An old human hovercraft left to rust in the shipyard."
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  }
+]
