@@ -270,3 +270,10 @@
 + Changed hand-use to 1H for Rainbow Hoverbike Controller
 + Updated description for Rusty Hoverbike Controller to be more immersive
 + Updated description for Rainbow Hoverbike Controller to be more immersive
+
+### Racial Hoverbikes
++ Changed hand-use to 1H for Avian Hoverbike
++ Changed hand-use to 1H for Apex Hoverbike
++ Changed hand-use to 1H for Hylotl Hoverbike
++ Price change from 13,000 PIXELS to 11,000 PIXELS for Avian Hoverbike
++ Price change from 13,000 PIXELS to 11,000 PIXELS for Hylotl Hoverbike

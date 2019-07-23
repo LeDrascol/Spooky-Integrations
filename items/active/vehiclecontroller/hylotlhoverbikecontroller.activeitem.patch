@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "hylotlhoverbikecontroller"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 11000
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  }
+]
