@@ -8,7 +8,7 @@ Like in Spooky Tweaks, this mod adds no __new__ save-altering content! You can a
  - [Steam Workshop]()
  - [Chucklefish Forums]()
 
-# Official Integration
+## Official Integration
 The mods listed below are patched to use Spooky Tweaks' balance
 - [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
 - [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
@@ -36,21 +36,29 @@ The mods listed below are music mods integrated into the Chip Tunes shop
 - [Annoying Dog Instrument](https://steamcommunity.com/sharedfiles/filedetails/?id=733366979)
 - [Mighty Music Instruments](https://steamcommunity.com/sharedfiles/filedetails/?id=740921702)
 
-# Project Highlights
-**General**
+## Project Highlights
+**Universal Changes**
 - Instruments are one handed, rare, worth 2000 pixels, and sold by Chip Tunes
-- Themed alternative items match vanilla tweaks (ex Avali Flashlight)
-- Crafting stations moved to different tiers of the inventors table
+- Flashlights don't emit ambient fill light
+- Pickaxes don't use durability
+- Grappling hooks have consistent duration, speed, and rope physics
+- Respawn text reflects changes to pixel drop amount
+- EPPs use scientific names related to the condition they prevent
+- Crafting stations are always made at the inventors table
 - Teleporters are platforms, and can be recovered when broken
-- Moon related things are just as spooky
+- Moon related things follow the 'spooky' joke
 - Staves and wands take 0.6s to charge
+- Crop shipper variants always sell for 100% value
+- Vehicle controllers are one handed
+- Hoverbikes sell for 11,000 pixels
+- Flying vehicles sell for 30,000 pixels
+- Racial flags can be crafted once picked up
+- Ship lockers refrigerate items (80% slower rot)
+- Augments are crafted at the Research Station
 
 **Mod Specific**
-- Magnorb shields have no energy cost when using Expanded Magnorbs
-- Endgame Avali items are more powerful than vanilla items
+- Avali are technologically superior
+- Expanded Magnorbs shields have no energy cost
 - All in one Erchius EPP can't be crafted due to being OP
 - No Ghost Augment is worth less to prevent money exploits
-- Explorepods are sold for 30,000 pixels
-- Purple Stim Pack only lasts for 180s
-- Shipments always sell for 100%
-- Transmutation tables support unused ore items
+- EE Transmutation tables support unused ore items
