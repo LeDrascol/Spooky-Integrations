@@ -294,3 +294,12 @@
 + Changed hand-use to 1H for Purple Hoverbike Controller
 + Changed hand-use to 1H for White Hoverbike Controller
 + Changed hand-use to 1H for Yellow Hoverbike Controller
+
+### Anvil Mechs
++ Reduced use time from 2.8 to 1.5 for Conjurer Mech Arm
++ Reduced use time from 2.8 to 1.5 for Summoner Mech Arm
++ Increased stats from 6-6 to 7-7 for Conjurer Mech Arm
++ Increased stats from 6-6 to 7-7 for Incinerator Mech Arm
++ Increased stats from 6-6 to 7-7 for Powerhammer Mech Arm
++ Increased stats from 6-6 to 7-7 for Ranger Mech Arm
++ Increased stats from 6-6 to 7-7 for Summoner Mech Arm

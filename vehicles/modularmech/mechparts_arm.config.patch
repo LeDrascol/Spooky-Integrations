@@ -1,0 +1,97 @@
+[
+	[
+		{
+	    "op": "test",
+	    "path": "/incinerator/stats/power",
+	    "value": 6
+	  },
+	  {
+	    "op": "replace",
+	    "path": "/incinerator/stats/power",
+	    "value": 7
+	  },
+	  {
+	    "op": "replace",
+	    "path": "/incinerator/stats/energy",
+	    "value": 7
+	  }
+	],
+	[
+		{
+	    "op": "test",
+	    "path": "/ranger/stats/power",
+	    "value": 6
+	  },
+	  {
+	    "op": "replace",
+	    "path": "/ranger/stats/power",
+	    "value": 7
+	  },
+	  {
+	    "op": "replace",
+	    "path": "/ranger/stats/energy",
+	    "value": 7
+	  }
+	],
+	[
+		{
+	    "op": "test",
+	    "path": "/powerhammer/stats/power",
+	    "value": 6
+	  },
+	  {
+	    "op": "replace",
+	    "path": "/powerhammer/stats/power",
+	    "value": 7
+	  },
+	  {
+	    "op": "replace",
+	    "path": "/powerhammer/stats/energy",
+	    "value": 7
+	  }
+	],
+	[
+		{
+			"op": "test",
+			"path": "/conjurer/partParameters/fireTime",
+			"value": 2.8
+		},
+	  {
+	    "op": "replace",
+	    "path": "/conjurer/partParameters/fireTime",
+	    "value": 1.5
+	  },
+		{
+	    "op": "replace",
+	    "path": "/conjurer/stats/power",
+	    "value": 7
+	  },
+	  {
+	    "op": "replace",
+	    "path": "/conjurer/stats/energy",
+	    "value": 7
+	  }
+	],
+	[
+		{
+			"op": "test",
+			"path": "/summoner/partParameters/fireTime",
+			"value": 2.8
+		},
+	  {
+	    "op": "replace",
+	    "path": "/summoner/partParameters/fireTime",
+	    "value": 1.5
+	  },
+		{
+	    "op": "replace",
+	    "path": "/summoner/stats/power",
+	    "value": 7
+	  },
+	  {
+	    "op": "replace",
+	    "path": "/summoner/stats/energy",
+	    "value": 7
+	  }
+	]
+]
