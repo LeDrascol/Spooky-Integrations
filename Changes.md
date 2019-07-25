@@ -343,3 +343,11 @@
 + Added learn on pickup to Imagitonium for Woggle Magic Orbs
 + Added learn on pickup to Imagitonium for Woggle Magic Spear
 + Added learn on pickup to Imagitonium for Woggle Magic Staff
+
+### Avali
++ Added Avali racial effect Avali Endurance (`st_racialAvali`)
+
+### Familiars
++ Fixed MOD missing racial effect for Familiars
++ Added configuration support for script for familiarRacial
++ Added effect configuration for familiarRacial

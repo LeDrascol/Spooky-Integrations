@@ -1,0 +1,8 @@
+{
+  "name" : "st_racialFamiliar",
+
+  "effectConfig" : { "energyBoost": 1.2 },
+  "defaultDuration": 1.0,
+
+  "scripts" : [ "st_racialFamiliar.lua" ]
+}
