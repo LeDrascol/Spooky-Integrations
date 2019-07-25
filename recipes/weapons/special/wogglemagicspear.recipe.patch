@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "wogglemagicspear"
+  },
+  {
+    "op": "replace",
+    "path": "/groups",
+    "value": [ "craftingseparator", "weapons", "all" ]
+  },
+  {
+    "op": "replace",
+    "path": "/input/2/count",
+    "value": 30
+  }
+]

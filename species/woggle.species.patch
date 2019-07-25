@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/charCreationTooltip/description",
+    "value": "WUJU?"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "Woggles are a race of supreme magical beings that fought alongside the ^red;Ancients^reset; to seal away the ^red;Ruin^reset;. Once thought lost to the ages, you emerge again as an innocent child full of imagination and ready to love the world!"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "wogglemagicstaff"
+  },
+  {
+    "op": "replace",
+    "path": "/groups",
+    "value": [ "craftingmanipulator", "weapons", "all" ]
+  },
+  {
+    "op": "replace",
+    "path": "/input/2/count",
+    "value": 30
+  }
+]

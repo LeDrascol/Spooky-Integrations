@@ -1,0 +1,21 @@
+[
+  {
+    "op": "test",
+    "path": "/id",
+    "value": "woggleyou"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A guide on what it means to be a Woggle."
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages",
+    "value": [
+      "Woggles and You!\n\nIf you're reading this, then you are a proud member of the Woggle race! Congratulations!\n\nYou may have noticed you're shorter than other people, and that's normal! With the right care, you too can one day be as grow up to be big and strong! You are a truly unique individual capable of great things!\n\nThe power of your imagination protects you from both the nasty radiation found on toxic planets, and the empty vacuum of space!",
+
+  	  "Your Caretaker\n\nA special individual should be with you at all times to ensure your health and safety.\nPlease listen to their instructions and remember that they're your very best friend!\nIf you have not been assigned a caretaker, please report to your nearest Protectorate office immediately.\n\n^red;DO NOT ACCEPT HELP FROM NON-PROTECTORATE INDIVIDUALS!^reset;"
+    ]
+  }
+]

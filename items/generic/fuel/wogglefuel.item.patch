@@ -1,0 +1,37 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "wogglefuel"
+  },
+  {
+    "op": "replace",
+    "path": "/fuelAmount",
+    "value": 100
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An imaginary fuel rod, straight from your head! It radiates with creativity."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Imagitonium"
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "Fuel"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [ "wogglemagicspear", "wogglemagicorbs", "wogglemagicstaff" ]
+  }
+]

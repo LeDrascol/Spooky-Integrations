@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/name",
+    "value": "wogglePassive"
+  },
+  {
+    "op": "replace",
+    "path": "/effectConfig",
+    "value": {
+      "statAir" : 1,
+      "statCold" : 0,
+      "statHeat" : 0,
+      "statRads" : 1
+    }
+  }
+]

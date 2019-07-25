@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "wogglewandT5"
+  },
+  {
+    "op": "replace",
+    "path": "/groups",
+    "value": [ "craftingmanipulator", "weapons", "all" ]
+  }
+]

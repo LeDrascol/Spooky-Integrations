@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "wogglefuel"
+  },
+  {
+    "op": "replace",
+    "path": "/input/0/count",
+    "value": 100
+  }
+]

@@ -303,3 +303,43 @@
 + Increased stats from 6-6 to 7-7 for Powerhammer Mech Arm
 + Increased stats from 6-6 to 7-7 for Ranger Mech Arm
 + Increased stats from 6-6 to 7-7 for Summoner Mech Arm
+
+### Woggles!
++ Renamed !*~Imagination~*! to Imagitonium
++ Updated description for Imagitonium to reflect it's radiation
++ Reduced fuel value from 9999 FUEL to 100 FUEL for Imagitonium
++ Changed category from Junk to Fuel for Imagitonium
++ Reduced rarity from LEGENDARY to RARE for Imagitonium
++ Increased crafting cost from 10 PIXELS to 100 PIXELS for Imagitonium
++ Reduced charge time from 1.4 to 0.6 for Woggle Staff (all tiers)
++ Reduced cooldown time from 0.5 to 0 for Woggle Staff (all tiers)
++ Reduced charge time from 1.4 to 0.6 for Woggle Wand (all tiers)
++ Reduced cooldown time from 0.5 to 0 for Woggle Wand (all tiers)
++ Reduced charge time from 1.4 to 0.6 for Woggle Magic Staff (all tiers)
++ Moved crafting to Accelerator's Table for Woggle Magic Orbs
++ Moved crafting to Separator's Table for Woggle Magic Spear
++ Moved crafting to Manipulator's Table for Woggle Magic Staff
++ Reduced crafting cost from 333 Imagitonium to 30 Imagitonium for Woggle Magic Orbs
++ Reduced crafting cost from 333 Imagitonium to 30 Imagitonium for Woggle Magic Spear
++ Reduced crafting cost from 333 Imagitonium to 30 Imagitonium for Woggle Magic Staff
++ Moved crafting to Separator's Table for Woggle T5 Broadsword
++ Moved crafting to Separator's Table for Woggle T6 Broadsword
++ Moved crafting to Separator's Table for Woggle T5 Dagger
++ Moved crafting to Separator's Table for Woggle T6 Dagger
++ Moved crafting to Separator's Table for Woggle T5 Spear
++ Moved crafting to Separator's Table for Woggle T6 Spear
++ Moved crafting to Manipulator's Table for Woggle T5 Staff
++ Moved crafting to Manipulator's Table for Woggle T6 Staff
++ Moved crafting to Manipulator's Table for Woggle T5 Wand
++ Moved crafting to Manipulator's Table for Woggle T6 Wand
++ Moved crafting to Accelerator's Table for Woggle T5 Shard
++ Moved crafting to Accelerator's Table for Woggle T6 Shard
++ Updated character creation tooltip for Woggles to use ST lore
++ Lore update for codex Woggle Care Manual
++ Lore update for codex Woggles and You
++ Increased boost force from 150 to 250 for Woggle Magic Spear
++ Replaced effect script for wogglePassive
++ Replaced effect configuration for wogglePassive
++ Added learn on pickup to Imagitonium for Woggle Magic Orbs
++ Added learn on pickup to Imagitonium for Woggle Magic Spear
++ Added learn on pickup to Imagitonium for Woggle Magic Staff

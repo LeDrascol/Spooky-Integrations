@@ -27,6 +27,7 @@ The mods listed below are patched to use Spooky Tweaks' balance
 - [Racial Hoverbikes](https://steamcommunity.com/sharedfiles/filedetails/?id=756451180)
 - [Full Spectrum Hoverbikes](https://steamcommunity.com/sharedfiles/filedetails/?id=729859167)
 - [Anvil Mechs](https://steamcommunity.com/sharedfiles/filedetails/?id=1233873017)
+- [Woggles!](https://steamcommunity.com/workshop/filedetails/?id=1296622347)
 
 The mods listed below are music mods integrated into the Chip Tunes shop
 - [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)

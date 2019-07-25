@@ -15,7 +15,8 @@
     "Bagpipe", "Steven's Ukelele", "Annoying dog instrument",
     "Mighty Music Instruments!", "az-expandedmagnorbs", "EES",
     "Flashlight Attachment for NORMAL Grappling Hook", "lavaresistaugment", "Rusty And Rainbow Cars",
-    "Racial Hoverbikes", "Full Spectrum Hoverbikes", "Anvil Mechs"
+    "Racial Hoverbikes", "Full Spectrum Hoverbikes", "Anvil Mechs",
+    "Woggles"
   ],
   "requires" : [ "spookyTweaks" ]
 }
