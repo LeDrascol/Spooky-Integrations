@@ -69,3 +69,9 @@ The mods listed below are music mods integrated into the Chip Tunes shop
 - All in one Erchius EPP can't be crafted due to being OP
 - No Ghost Augment is worth less to prevent money exploits
 - EE Transmutation tables support unused ore items
+- Lore overhaul for Woggles to better fit Starbound's universe
+
+**Racial Bonuses**
+- Familiars glow like Novakids and have 20% bonus energy
+- Avali are immune to fall damage and extreme cold
+- Woggles can survive in any environment without an EPP
