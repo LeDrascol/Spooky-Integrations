@@ -33,6 +33,7 @@ The mods listed below are patched to use Spooky Tweaks' balance
 - [Colored Torches](https://steamcommunity.com/sharedfiles/filedetails/?id=1324828855)
 - [Novali Race Ver.](https://steamcommunity.com/workshop/filedetails/?id=1386730092)
 - [Novali Reskin Ver.](https://steamcommunity.com/sharedfiles/filedetails/?id=1386469529)
+- [Compact Stations](https://steamcommunity.com/sharedfiles/filedetails/?id=1483560141)
 
 The mods listed below are music mods integrated into the Chip Tunes shop
 - [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)

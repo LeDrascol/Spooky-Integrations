@@ -379,3 +379,39 @@
 
 ### Novali (Reskin Ver.)
 + Added check for Novali reskin to use Novali racial effect
+
+### Compact Stations
++ Sell rates raised from 30% to 100% for Terramart Tele-Shipments
++ Added Terramart Tele-Shipments acceptable item Iron Ore
++ Added Terramart Tele-Shipments acceptable item Tungsten Ore
++ Added Terramart Tele-Shipments acceptable item Titanium Ore
++ Added Terramart Tele-Shipments acceptable item Durasteel Ore
++ Added Terramart Tele-Shipments acceptable item Aegisalt Ore
++ Added Terramart Tele-Shipments acceptable item Ferozium Ore
++ Added Terramart Tele-Shipments acceptable item Violium Ore
++ Added Terramart Tele-Shipments acceptable item Solarium Ore
++ Added Terramart Tele-Shipments acceptable item Iron Bar
++ Added Terramart Tele-Shipments acceptable item Tungsten Bar
++ Added Terramart Tele-Shipments acceptable item Titanium Bar
++ Added Terramart Tele-Shipments acceptable item Durasteel Bar
++ Added Terramart Tele-Shipments acceptable item Refined Aegisalt
++ Added Terramart Tele-Shipments acceptable item Refined Ferozium
++ Added Terramart Tele-Shipments acceptable item Refined Violium
++ Added Terramart Tele-Shipments acceptable item Solarium Star
++ Added Terramart Tele-Shipments acceptable item Coal
++ Added Terramart Tele-Shipments acceptable item Copper Ore
++ Added Terramart Tele-Shipments acceptable item Silver Ore
++ Added Terramart Tele-Shipments acceptable item Gold Ore
++ Added Terramart Tele-Shipments acceptable item Diamond
++ Added Terramart Tele-Shipments acceptable item Prism Shard
++ Added Terramart Tele-Shipments acceptable item Core Fragment
++ Added Terramart Tele-Shipments acceptable item Spookium Supermatter
++ Added Terramart Tele-Shipments acceptable item Crystal Spookium
++ Added Terramart Tele-Shipments acceptable item Liquid Spookium
++ Added Terramart Tele-Shipments acceptable item Moonstone Ore
++ Added Terramart Tele-Shipments acceptable item Platinum Ore
++ Added Terramart Tele-Shipments acceptable item Plutonium Ore
++ Added Terramart Tele-Shipments acceptable item Trianglium Ore
++ Added Terramart Tele-Shipments acceptable item Uranium Ore
++ Added Terramart Tele-Shipments acceptable item Lead
++ Added Terramart Tele-Shipments acceptable item Sulphur
