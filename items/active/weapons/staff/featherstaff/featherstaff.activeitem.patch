@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "featherstaff"
+  },
+  {
+    "op": "replace",
+    "path": "/stances/charge/duration",
+    "value": 0.6
+  }
+]

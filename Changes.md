@@ -353,3 +353,9 @@
 + Fixed MOD missing racial effect for Familiars
 + Added configuration support for script for familiarRacial
 + Added effect configuration for familiarRacial
+
+### More Staves
++ Reduced charge time from 1.4 to 0.6 for Crystal Staff
++ Reduced charge time from 1.4 to 0.6 for Feather Staff
++ Reduced charge time from 1.4 to 0.6 for Laser Staff
++ Reduced charge time from 1.4 to 0.6 for Poison Vaultkeeper's Staff
