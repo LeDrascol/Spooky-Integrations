@@ -7,5 +7,7 @@
   },
   "defaultDuration" : 1.0,
 
-  "scripts" : [ "st_racialAvali.lua" ]
+  "scripts" : [ "st_racialAvali.lua" ],
+
+  "label" : "Avali Endurance"
 }

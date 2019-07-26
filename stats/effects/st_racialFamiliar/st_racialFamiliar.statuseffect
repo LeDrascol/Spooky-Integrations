@@ -4,5 +4,7 @@
   "effectConfig" : { "energyBoost": 1.2 },
   "defaultDuration": 1.0,
 
-  "scripts" : [ "st_racialFamiliar.lua" ]
+  "scripts" : [ "st_racialFamiliar.lua" ],
+
+  "label" : "Familiar Energy"
 }
