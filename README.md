@@ -31,6 +31,7 @@ The mods listed below are patched to use Spooky Tweaks' balance
 - [More Staves](https://steamcommunity.com/sharedfiles/filedetails/?id=934858256)
 - [Powers of Ruin](https://steamcommunity.com/sharedfiles/filedetails/?id=1508762885)
 - [Colored Torches](https://steamcommunity.com/sharedfiles/filedetails/?id=1324828855)
+- [Novali Race Ver.](https://steamcommunity.com/workshop/filedetails/?id=1386730092)
 
 The mods listed below are music mods integrated into the Chip Tunes shop
 - [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)
@@ -76,4 +77,5 @@ The mods listed below are music mods integrated into the Chip Tunes shop
 **Racial Bonuses**
 - Familiars glow like Novakids and have 20% bonus energy
 - Avali are immune to fall damage and extreme cold
+- Novali are immune to fall damage and extreme heat, and glow like Novakids
 - Woggles can survive in any environment without an EPP

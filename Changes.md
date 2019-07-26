@@ -373,3 +373,6 @@
 + Changed hand-use to 1H for Red Torch
 + Changed hand-use to 1H for White Torch
 + Changed hand-use to 1H for Yellow Torch
+
+### Novali (Race Ver.)
++ Added Novali racial effect Novali Endurance (`st_racialNovali`)

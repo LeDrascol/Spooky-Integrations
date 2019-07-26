@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/kind",
+    "value": "novali"
+  },
+  {
+    "op": "add",
+    "path": "/statusEffects/-",
+    "value": "st_racialNovali"
+  }
+]

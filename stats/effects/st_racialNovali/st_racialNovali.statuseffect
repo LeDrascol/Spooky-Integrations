@@ -1,0 +1,13 @@
+{
+  "name" : "st_racialNovali",
+
+  "effectConfig" : {
+    "multFalling": 0,
+    "protectHeat": 1
+  },
+  "defaultDuration" : 1.0,
+
+  "scripts" : [ "st_racialNovali.lua" ],
+
+  "label" : "Novali Endurance"
+}
