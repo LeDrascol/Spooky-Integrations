@@ -343,6 +343,8 @@
 + Added learn on pickup to Imagitonium for Woggle Magic Orbs
 + Added learn on pickup to Imagitonium for Woggle Magic Spear
 + Added learn on pickup to Imagitonium for Woggle Magic Staff
++ Added biome immunity HEAT to Woggles
++ Added biome immunity COLD to Woggles
 
 ### Avali
 + Added Avali racial effect Avali Endurance (`st_racialAvali`)
