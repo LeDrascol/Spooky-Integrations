@@ -376,3 +376,6 @@
 
 ### Novali (Race Ver.)
 + Added Novali racial effect Novali Endurance (`st_racialNovali`)
+
+### Novali (Reskin Ver.)
++ Added check for Novali reskin to use Novali racial effect

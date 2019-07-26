@@ -1,12 +1,32 @@
 [
-  {
-    "op": "test",
-    "path": "/kind",
-    "value": "avali"
-  },
-  {
-    "op": "add",
-    "path": "/statusEffects",
-    "value": [ "st_racialAvali" ]
-  }
+  [
+    {
+      "op": "test",
+      "path": "/kind",
+      "value": "avali"
+    },
+    {
+      "op": "test",
+      "path": "/charGenTextLabels/8",
+      "value": "NOVALI",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/statusEffects",
+      "value": [ "st_racialAvali" ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/charGenTextLabels/8",
+      "value": "NOVALI"
+    },
+    {
+      "op": "add",
+      "path": "/statusEffects",
+      "value": [ "st_racialNovali" ]
+    }
+  ]
 ]
