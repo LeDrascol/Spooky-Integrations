@@ -30,6 +30,7 @@ The mods listed below are patched to use Spooky Tweaks' balance
 - [Woggles!](https://steamcommunity.com/workshop/filedetails/?id=1296622347)
 - [More Staves](https://steamcommunity.com/sharedfiles/filedetails/?id=934858256)
 - [Powers of Ruin](https://steamcommunity.com/sharedfiles/filedetails/?id=1508762885)
+- [Colored Torches](https://steamcommunity.com/sharedfiles/filedetails/?id=1324828855)
 
 The mods listed below are music mods integrated into the Chip Tunes shop
 - [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)

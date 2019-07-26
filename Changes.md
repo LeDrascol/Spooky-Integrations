@@ -362,3 +362,14 @@
 
 ### Powers of Ruin
 + Crafting moved from Replicator to Research Station for Ruin's Energy Augment
+
+### Colored Torches
++ Changed hand-use to 1H for Blue Torch
++ Changed hand-use to 1H for Cyan Torch
++ Changed hand-use to 1H for Green Torch
++ Changed hand-use to 1H for Orange Torch
++ Changed hand-use to 1H for Pink Torch
++ Changed hand-use to 1H for Purple Torch
++ Changed hand-use to 1H for Red Torch
++ Changed hand-use to 1H for White Torch
++ Changed hand-use to 1H for Yellow Torch
