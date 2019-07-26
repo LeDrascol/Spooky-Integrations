@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "energyofruinaugment"
+  },
+	{
+    "op": "replace",
+    "path": "/groups",
+    "value": [ "researchstation" ]
+  }
+]

@@ -359,3 +359,6 @@
 + Reduced charge time from 1.4 to 0.6 for Feather Staff
 + Reduced charge time from 1.4 to 0.6 for Laser Staff
 + Reduced charge time from 1.4 to 0.6 for Poison Vaultkeeper's Staff
+
+### Powers of Ruin
++ Crafting moved from Replicator to Research Station for Ruin's Energy Augment
