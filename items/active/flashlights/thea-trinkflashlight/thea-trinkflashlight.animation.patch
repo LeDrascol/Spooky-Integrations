@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/lights/glow/active",
+    "value": true
+  },
+  {
+    "op": "replace",
+    "path": "/lights/glow/active",
+    "value": false
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "avikangrapplinghook"
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
+  },
+  {
+    "op": "replace",
+    "path": "/projectileParameters/timeToLive",
+    "value": 2.5
+  }
+]

@@ -40,6 +40,7 @@ Mods that add new races or edit exsiting modded ones
 - [Woggles!](https://steamcommunity.com/workshop/filedetails/?id=1296622347)
 - [Lyceen Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1360547769)
 - [Felin](https://steamcommunity.com/sharedfiles/filedetails/?id=729429063)
+- [Elithian Races Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=850109963)
 
 #### Instrument Mods
 New instruments added to the Chip Tunes shop

@@ -1,0 +1,21 @@
+[
+  {
+    "op": "test",
+    "path": "/objectName",
+    "value": "creonembassyteleporter-akkimari"
+  },
+  {
+    "op": "remove",
+    "path": "/breakDropPool"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A teleporter linked to the Creon Embassy."
+  },
+  {
+    "op": "replace",
+    "path": "/orientations/0/collision",
+    "value": "platform"
+  }
+]

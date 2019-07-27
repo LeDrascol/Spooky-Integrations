@@ -440,3 +440,71 @@
 + Changed hand-use to 1H for Laser Lyre
 + Increased rarity rank from Common to Rare for Laser Lyre
 + Moved crafting from Wiring Station to Chip Tunes for Laser Lyre
+
+### Elithian Races Mod
++ Updated normal (casual) mode respawn text for Aegi
++ Updated normal (casual) mode respawn text for Akkimari
++ Updated normal (casual) mode respawn text for Avikan
++ Updated normal (casual) mode respawn text for Droden
++ Updated normal (casual) mode respawn text for Trink
++ Removed ambient light effect from Enerth Flashlight
++ Removed ambient light effect from Nomada Flashlight
++ Removed ambient light effect from Trinkian Flashlight
++ Reduced rarity rank from Legendary to Uncommon for Akris Grappling Hook
++ Reduced rarity rank from Legendary to Uncommon for Alliance Grappling Hook
++ Reduced rarity rank from Legendary to Uncommon for Nomada Grappling Hook
++ Reduced rarity rank from Legendary to Uncommon for Circuit Grappling Hook
++ Increased time to live from 2.0 to 2.5 for Akris Grappling Hook
++ Increased time to live from 2.0 to 2.5 for Alliance Grappling Hook
++ Increased time to live from 2.0 to 2.5 for Nomada Grappling Hook
++ Increased time to live from 2.0 to 2.5 for Circuit Grappling Hook
++ Changed hand-use to 1H for Chaseflight Controller
++ Changed hand-use to 1H for Veronas Sparrow Controller
++ Changed hand-use to 1H for Aventor Galliot Controller
++ Changed hand-use to 1H for Aventor Galliot Controller
++ Changed hand-use to 1H for ASA-26 Ranger Controller
++ Changed hand-use to 1H for Drehk Controller
++ Changed hand-use to 1H for Keff Controller
++ Changed hand-use to 1H for Blink Keff Controller
++ Changed hand-use to 1H for Vanguard Krahl Controller
++ Changed hand-use to 1H for War Gad'hur Controller
++ Changed hand-use to 1H for Gad'hur Controller
++ Changed hand-use to 1H for Skoff Controller
++ Changed hand-use to 1H for Hoverpod Controller
++ Reduced charge time from 1.1 to 0.6 for Andra'veihan Heart
++ Updated description for Aegi fuel hatch
++ Updated description for Akkimari fuel hatch
++ Updated description for Avikan fuel hatch
++ Updated description for Trink fuel hatch
++ Reduced item aging rate from 1.0 to 0.2 for Aegi Ship Locker
++ Reduced item aging rate from 1.0 to 0.2 for Akkimari Ship Locker
++ Reduced item aging rate from 1.0 to 0.2 for Avikan Ship Locker
++ Reduced item aging rate from 1.0 to 0.2 for Trink Ship Locker
++ Changed collision type from SOLID to PLATFORM for Aegi ship teleporter
++ Changed collision type from SOLID to PLATFORM for Akkimari ship teleporter
++ Changed collision type from SOLID to PLATFORM for Avikan ship teleporter
++ Changed collision type from SOLID to PLATFORM for Trink ship teleporter
++ Changed collision type from SOLID to PLATFORM for Alliance Teleporter
++ Changed collision type from SOLID to PLATFORM for Avikan Teleporter
++ Changed collision type from SOLID to PLATFORM for Trinkian Teleporter
++ Changed collision type from SOLID to PLATFORM for Small Alliance Teleporter
++ Changed collision type from SOLID to PLATFORM for Small Avikan Teleporter
++ Changed collision type from SOLID to PLATFORM for Small Trinkian Teleporter
++ Changed collision type from SOLID to PLATFORM for Starfarer's Teleporter
++ Changed collision type from SOLID to PLATFORM for Centensian Teleporter
++ Changed collision type from SOLID to PLATFORM for Centensian Teleporter (mid)
++ Changed collision type from SOLID to PLATFORM for Creon Embassy Teleporter
++ Changed collision type from SOLID to PLATFORM for Creon Embassy Teleporter (akkimari)
++ Changed collision type from SOLID to PLATFORM for Creon Embassy Teleporter (trink)
++ Removed 'Destroyed when broken' from Alliance Teleporter
++ Removed 'Destroyed when broken' from Avikan Teleporter
++ Removed 'Destroyed when broken' from Trinkian Teleporter
++ Removed 'Destroyed when broken' from Small Alliance Teleporter
++ Removed 'Destroyed when broken' from Small Avikan Teleporter
++ Removed 'Destroyed when broken' from Small Trinkian Teleporter
++ Removed 'Destroyed when broken' from Starfarer's Teleporter
++ Removed 'Destroyed when broken' from Centensian Teleporter
++ Removed 'Destroyed when broken' from Centensian Teleporter (mid)
++ Removed 'Destroyed when broken' from Creon Embassy Teleporter
++ Removed 'Destroyed when broken' from Creon Embassy Teleporter (akkimari)
++ Removed 'Destroyed when broken' from Creon Embassy Teleporter (trink)

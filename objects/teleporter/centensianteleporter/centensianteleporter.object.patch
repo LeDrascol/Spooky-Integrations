@@ -1,0 +1,21 @@
+[
+  {
+    "op": "test",
+    "path": "/objectName",
+    "value": "centensianteleporter"
+  },
+  {
+    "op": "remove",
+    "path": "/breakDropPool"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A personal teleporter, connects to bookmarked locations."
+  },
+  {
+    "op": "replace",
+    "path": "/orientations/0/collision",
+    "value": "platform"
+  }
+]
