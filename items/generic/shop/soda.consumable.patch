@@ -1,0 +1,32 @@
+[
+  {
+    "op": "test",
+    "path": "/description",
+    "value": "A refreshing can of soda full of exploitation."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A favorite among summer race enthusiasts. Even though the race is over, you're still drinking it."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Cheater Cola"
+  },
+  {
+    "op": "add",
+    "path": "/effects/0/-",
+    "value": { "effect": "l6doomed", "duration": 10 }
+  },
+  {
+    "op": "add",
+    "path": "/effects/0/-",
+    "value": { "effect": "timefreeze", "duration": 3 }
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 0
+  }
+]

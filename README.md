@@ -30,6 +30,7 @@ The mods listed below are patched to use Spooky Tweaks' balance
 - [Powers of Ruin](https://steamcommunity.com/sharedfiles/filedetails/?id=1508762885)
 - [Colored Torches](https://steamcommunity.com/sharedfiles/filedetails/?id=1324828855)
 - [Compact Stations](https://steamcommunity.com/sharedfiles/filedetails/?id=1483560141)
+- [Summer Sale Soda Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1780994893)
 
 #### Race Mods
 Mods that add new races or edit exsiting modded ones

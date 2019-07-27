@@ -508,3 +508,11 @@
 + Removed 'Destroyed when broken' from Creon Embassy Teleporter
 + Removed 'Destroyed when broken' from Creon Embassy Teleporter (akkimari)
 + Removed 'Destroyed when broken' from Creon Embassy Teleporter (trink)
+
+### Summer Sale Soda Mod
++ **If the mod is installed:**
++ Added status effect to Soda: Doomed
++ Added status effect to Soda: Time Freeze
++ Updated description for Soda
++ Price change from 40 PIXELS to 0 PIXELS for Soda
++ Renamed Soda to Cheater Cola
