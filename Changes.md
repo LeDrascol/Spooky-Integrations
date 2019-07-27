@@ -417,3 +417,8 @@
 + Added Terramart Tele-Shipments acceptable item Uranium Ore
 + Added Terramart Tele-Shipments acceptable item Lead
 + Added Terramart Tele-Shipments acceptable item Sulphur
+
+### Lyceen Race
++ Changed collision type from SOLID to PLATFORM for Lyceen ship teleporter
++ Updated normal (casual) mode respawn text to match mod changes
++ Updated description for Lyceen fuel hatch to match mod changes
