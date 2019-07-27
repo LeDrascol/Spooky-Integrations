@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "laserlyre"
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  }
+]

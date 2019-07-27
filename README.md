@@ -39,6 +39,7 @@ Mods that add new races or edit exsiting modded ones
 - [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
 - [Woggles!](https://steamcommunity.com/workshop/filedetails/?id=1296622347)
 - [Lyceen Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1360547769)
+- [Felin](https://steamcommunity.com/sharedfiles/filedetails/?id=729429063)
 
 #### Instrument Mods
 New instruments added to the Chip Tunes shop

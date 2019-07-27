@@ -422,3 +422,21 @@
 + Changed collision type from SOLID to PLATFORM for Lyceen ship teleporter
 + Updated normal (casual) mode respawn text to match mod changes
 + Updated description for Lyceen fuel hatch to match mod changes
+
+### Felin
++ Changed collision type from SOLID to PLATFORM for Felin ship teleporter
++ Updated normal (casual) mode respawn text to match mod changes
++ Updated description for Felin fuel hatch to match mod changes
++ Reduced item aging rate from 1.0 to 0.2 for Felin Ship Locker
++ Price change from 12,500 PIXELS to 11,000 PIXELS for Catvette Controller
++ Price change from 12,500 PIXELS to 11,000 PIXELS for Flaming Catvette Controller
++ Price change from 12,500 PIXELS to 11,000 PIXELS for Pink Catvette Controller
++ Price change from 12,500 PIXELS to 11,000 PIXELS for Solo Jazz Catvette Controller
++ Changed hand-use to 1H for Catvette Controller
++ Changed hand-use to 1H for Flaming Catvette Controller
++ Changed hand-use to 1H for Pink Catvette Controller
++ Changed hand-use to 1H for Solo Jazz Catvette Controller
++ Changed hand-use to 1H for Laser Lyre
++ Changed hand-use to 1H for Laser Lyre
++ Increased rarity rank from Common to Rare for Laser Lyre
++ Moved crafting from Wiring Station to Chip Tunes for Laser Lyre
