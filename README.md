@@ -9,9 +9,8 @@ Like in Spooky Tweaks, this mod adds no __new__ save-altering content! You can a
  - [Chucklefish Forums]()
 
 ## Official Integration
+#### Standard mods
 The mods listed below are patched to use Spooky Tweaks' balance
-- [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
-- [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
 - [Avali Modular Mech](https://steamcommunity.com/sharedfiles/filedetails/?id=950340366)
 - [Enhanced Storage](https://steamcommunity.com/workshop/filedetails/?id=731220462)
 - [Restored Staves](https://steamcommunity.com/sharedfiles/filedetails/?id=1597203850)
@@ -27,16 +26,22 @@ The mods listed below are patched to use Spooky Tweaks' balance
 - [Racial Hoverbikes](https://steamcommunity.com/sharedfiles/filedetails/?id=756451180)
 - [Full Spectrum Hoverbikes](https://steamcommunity.com/sharedfiles/filedetails/?id=729859167)
 - [Anvil Mechs](https://steamcommunity.com/sharedfiles/filedetails/?id=1233873017)
-- [Woggles!](https://steamcommunity.com/workshop/filedetails/?id=1296622347)
 - [More Staves](https://steamcommunity.com/sharedfiles/filedetails/?id=934858256)
 - [Powers of Ruin](https://steamcommunity.com/sharedfiles/filedetails/?id=1508762885)
 - [Colored Torches](https://steamcommunity.com/sharedfiles/filedetails/?id=1324828855)
+- [Compact Stations](https://steamcommunity.com/sharedfiles/filedetails/?id=1483560141)
+
+#### Race Mods
+Mods that add new races or edit exsiting modded ones
+- [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
 - [Novali Race Ver.](https://steamcommunity.com/workshop/filedetails/?id=1386730092)
 - [Novali Reskin Ver.](https://steamcommunity.com/sharedfiles/filedetails/?id=1386469529)
-- [Compact Stations](https://steamcommunity.com/sharedfiles/filedetails/?id=1483560141)
+- [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
+- [Woggles!](https://steamcommunity.com/workshop/filedetails/?id=1296622347)
 - [Lyceen Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1360547769)
 
-The mods listed below are music mods integrated into the Chip Tunes shop
+#### Instrument Mods
+New instruments added to the Chip Tunes shop
 - [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)
 - [HD Pianos](https://steamcommunity.com/sharedfiles/filedetails/?id=893572258)
 - [Dubstep Gun](https://steamcommunity.com/sharedfiles/filedetails/?id=1647512084)
