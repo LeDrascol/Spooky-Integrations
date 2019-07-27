@@ -345,6 +345,7 @@
 + Added learn on pickup to Imagitonium for Woggle Magic Staff
 + Added biome immunity HEAT to Woggles
 + Added biome immunity COLD to Woggles
++ Updated normal (casual) mode respawn text to match mod changes
 
 ### Avali
 + Added Avali racial effect Avali Endurance (`st_racialAvali`)
@@ -376,6 +377,7 @@
 
 ### Novali (Race Ver.)
 + Added Novali racial effect Novali Endurance (`st_racialNovali`)
++ Updated normal (casual) mode respawn text to match mod changes
 
 ### Novali (Reskin Ver.)
 + Added check for Novali reskin to use Novali racial effect
