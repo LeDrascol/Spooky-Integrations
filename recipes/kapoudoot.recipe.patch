@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "kapoudoot"
+  },
+  {
+    "op": "add",
+    "path": "/groups/-",
+    "value": "sa_instrument"
+  },
+  {
+    "op": "add",
+    "path": "/groups/-",
+    "value": "inst_misc"
+  }
+]

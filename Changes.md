@@ -516,3 +516,9 @@
 + Updated description for Soda
 + Price change from 40 PIXELS to 0 PIXELS for Soda
 + Renamed Soda to Cheater Cola
+
+### More Instruments (Tabula Rasa)
++ **For all 15 instruments:**
++ Added Chip Tunes crafting
++ Increased rarity rank from Common to Rare
++ Price change from 3000 PIXELS to 2000 PIXELS

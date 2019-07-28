@@ -56,6 +56,7 @@ New instruments added to the Chip Tunes shop
 - [Steven's Ukelele](https://steamcommunity.com/sharedfiles/filedetails/?id=756993265)
 - [Annoying Dog Instrument](https://steamcommunity.com/sharedfiles/filedetails/?id=733366979)
 - [Mighty Music Instruments](https://steamcommunity.com/sharedfiles/filedetails/?id=740921702)
+- [More Instruments](https://steamcommunity.com/sharedfiles/filedetails/?id=745572180)
 
 ## Project Highlights
 **Universal Changes**
