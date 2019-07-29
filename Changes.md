@@ -522,3 +522,9 @@
 + Added Chip Tunes crafting
 + Increased rarity rank from Common to Rare
 + Price change from 3000 PIXELS to 2000 PIXELS
+
+### Twilit Wolves
++ Updated normal (casual) mode respawn text
++ Updated description for Twilit fuel hatch
++ Changed collision type from SOLID to PLATFORM for Twilit ship teleporter
++ Reduced item aging rate from 1.0 to 0.2 for Twilit Ship Locker

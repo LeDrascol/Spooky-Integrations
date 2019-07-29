@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/orientations/0/collision",
+    "value": "solid"
+  },
+  {
+    "op": "replace",
+    "path": "/orientations/0/collision",
+    "value": "platform"
+  }
+]
