@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/objectName",
+    "value": "flagtrink"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [ "flagtrink" ]
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Flag - Trink Circuit"
+  }
+]

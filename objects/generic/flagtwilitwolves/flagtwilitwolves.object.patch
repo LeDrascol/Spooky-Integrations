@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/objectName",
+    "value": "flagtwilitwolves"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [ "flagtwilitwolves" ]
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Flag - Twilit Wolves"
+  }
+]

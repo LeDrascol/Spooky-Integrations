@@ -422,6 +422,8 @@
 + Changed collision type from SOLID to PLATFORM for Lyceen ship teleporter
 + Updated normal (casual) mode respawn text to match mod changes
 + Updated description for Lyceen fuel hatch to match mod changes
++ Added self-crafting learn on pickup for Lyceen Flag
++ Renamed Lyceen Flag to Flag - Lyceen
 
 ### Felin
 + Changed collision type from SOLID to PLATFORM for Felin ship teleporter
@@ -440,6 +442,10 @@
 + Changed hand-use to 1H for Laser Lyre
 + Increased rarity rank from Common to Rare for Laser Lyre
 + Moved crafting from Wiring Station to Chip Tunes for Laser Lyre
++ Added self-crafting learn on pickup for Felin Flag
++ Added self-crafting learn on pickup for Felin Flag (tattered)
++ Renamed Felin Flag to Flag - Felin
++ Renamed Felin Flag (tattered) to Flag - Felin (tattered)
 
 ### Elithian Races Mod
 + Updated normal (casual) mode respawn text for Aegi
@@ -508,6 +514,14 @@
 + Removed 'Destroyed when broken' from Creon Embassy Teleporter
 + Removed 'Destroyed when broken' from Creon Embassy Teleporter (akkimari)
 + Removed 'Destroyed when broken' from Creon Embassy Teleporter (trink)
++ Added self-crafting learn on pickup for Union Flag
++ Added self-crafting learn on pickup for Covenant Flag
++ Added self-crafting learn on pickup for Avikan Flag
++ Added self-crafting learn on pickup for Trinkian Flag
++ Renamed Union Flag to Flag - Aeginian Union
++ Renamed Covenant Flag to Flag - Kel'chis Covenant
++ Renamed Avikan Flag to Flag - Avikan Nomada
++ Renamed Trinkian Flag to Flag - Trink Circuit
 
 ### Summer Sale Soda Mod
 + **If the mod is installed:**
@@ -528,6 +542,8 @@
 + Updated description for Twilit fuel hatch
 + Changed collision type from SOLID to PLATFORM for Twilit ship teleporter
 + Reduced item aging rate from 1.0 to 0.2 for Twilit Ship Locker
++ Added self-crafting learn on pickup for Twilit Wolves Flag
++ Renamed Twilit Wolves Flag to Flag - Twilit Wolves
 
 ### Pimp My Ride
 + Price change from 10000 PIXELS to 11000 PIXELS for Hoverbike Controller
