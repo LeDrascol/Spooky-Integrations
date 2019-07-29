@@ -528,3 +528,7 @@
 + Updated description for Twilit fuel hatch
 + Changed collision type from SOLID to PLATFORM for Twilit ship teleporter
 + Reduced item aging rate from 1.0 to 0.2 for Twilit Ship Locker
+
+### Pimp My Ride
++ Price change from 10000 PIXELS to 11000 PIXELS for Hoverbike Controller
++ Price change from 20000 PIXELS to 8000 PIXELS for Hoverboard Controller
