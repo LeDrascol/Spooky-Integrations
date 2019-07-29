@@ -44,6 +44,7 @@ Mods that add new races or edit exsiting modded ones
 - [Felin](https://steamcommunity.com/sharedfiles/filedetails/?id=729429063)
 - [Elithian Races Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=850109963)
 - [Twilit Wolves](https://steamcommunity.com/sharedfiles/filedetails/?id=1818480557)
+- [The Orcana](https://steamcommunity.com/sharedfiles/filedetails/?id=729432341)
 
 #### Instrument Mods
 New instruments added to the Chip Tunes shop

@@ -532,3 +532,24 @@
 ### Pimp My Ride
 + Price change from 10000 PIXELS to 11000 PIXELS for Hoverbike Controller
 + Price change from 20000 PIXELS to 8000 PIXELS for Hoverboard Controller
+
+### The Orcana
++ Updated normal (casual) mode respawn text
++ Reduced projectile speed from 100 to 65 for Grappling Claw
++ Reduced rarity rank from Legendary to Uncommon for Grappling Claw
++ Price change from 3000 PIXELS to 1200 PIXELS for Grappling Claw
++ Increased time to live from 0.35 to 2.5 for Grappling Claw
++ Increased rope width from 1.0 to 1.8 for Grappling Claw
++ Updated description for Grappling Claw
++ Increased rarity rank from Common to Rare for Aulos
++ Increased rarity rank from Common to Rare for Lyre
++ Price change from 3000 PIXELS to 2000 PIXELS for Aulos
++ Price change from 1000 PIXELS to 2000 PIXELS for Lyre
++ Changed hand-use to 1H for Aulos
++ Changed hand-use to 1H for Lyre
++ Updated description for Orcana fuel hatch
++ Changed collision type from SOLID to PLATFORM for Orcana ship teleporter
++ Reduced item aging rate from 1.0 to 0.2 for Orcana Ship Locker
++ Added Orcana racial effect SWIM BOOST
++ Added self-crafting learn on pickup for Orcana Flag
++ Renamed Orcana Flag to Flag - Orcana

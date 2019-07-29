@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/objectName",
+    "value": "flagorcana"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [ "flagorcana" ]
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Flag - Orcana"
+  }
+]
