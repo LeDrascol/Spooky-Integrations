@@ -126,5 +126,37 @@
 				"/ships/glitch/glitchT8.structure"
 			]
 		}
+	],
+	[
+		{
+			"op" : "test",
+			"path" : "/speciesShips/roccoro",
+			"value" : [
+				"/ships/roccoro/roccorot0.structure",
+				"/ships/roccoro/roccorot1.structure",
+				"/ships/roccoro/roccorot2.structure",
+				"/ships/roccoro/roccorot3.structure",
+				"/ships/roccoro/roccorot4.structure",
+				"/ships/roccoro/roccorot5.structure",
+				"/ships/roccoro/roccorot6.structure",
+				"/ships/roccoro/roccorot7.structure",
+				"/ships/roccoro/roccorot8.structure"
+			]
+		},
+		{
+			"op" : "replace",
+			"path" : "/speciesShips/roccoro",
+			"value" : [
+				"/ships/human/humanT0.structure",
+				"/ships/human/humanT1.structure",
+				"/ships/human/humanT2.structure",
+				"/ships/human/humanT3.structure",
+				"/ships/human/humanT4.structure",
+				"/ships/human/humanT5.structure",
+				"/ships/human/humanT6.structure",
+				"/ships/human/humanT7.structure",
+				"/ships/human/humanT8.structure"
+			]
+		}
 	]
 ]

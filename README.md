@@ -50,6 +50,7 @@ Mods that add new races or edit existing modded ones
 - [Peglaci Rebirth](https://steamcommunity.com/sharedfiles/filedetails/?id=1272073433)
 - [Protogen Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1789115955)
 - [GnollBound](https://steamcommunity.com/sharedfiles/filedetails/?id=1655860448)
+- [Roccoro Race Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1713093084)
 
 #### Instrument Mods
 New instruments added to the Chip Tunes shop
@@ -111,3 +112,4 @@ This applies to:
 - [Protogen Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1789115955)
 - [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
 - [GnollBound](https://steamcommunity.com/sharedfiles/filedetails/?id=1655860448)
+- [Roccoro Race Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1713093084)

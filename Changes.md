@@ -619,3 +619,12 @@
 + Changed collision type from SOLID to PLATFORM for Gnoll ship teleporter
 + Reduced item aging rate from 1.0 to 0.2 for Gnoll Ship Locker
 + Changed ship type from SKITTLES-GLITCH to GLITCH
+
+### Roccoro Race Mod
++ Updated normal (casual) mode respawn text
++ Added self-crafting learn on pickup for Roccoro Flag
++ Renamed Roccoro Flag to Flag - Roccoro
++ Updated description for Roccoro fuel hatch
++ Changed collision type from SOLID to PLATFORM for Roccoro ship teleporter
++ Reduced item aging rate from 1.0 to 0.2 for Roccoro Ship Locker
++ Changed ship type from SKITTLES-HUMAN to HUMAN

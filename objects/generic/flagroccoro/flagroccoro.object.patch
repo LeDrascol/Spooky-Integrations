@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/objectName",
+    "value": "flagroccoro"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [ "flagroccoro" ]
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Flag - Roccoro"
+  }
+]
