@@ -546,6 +546,7 @@
 + Reduced item aging rate from 1.0 to 0.2 for Twilit Ship Locker
 + Added self-crafting learn on pickup for Twilit Wolves Flag
 + Renamed Twilit Wolves Flag to Flag - Twilit Wolves
++ Changed ship type from SKITTLES to HUMAN
 
 ### Pimp My Ride
 + Price change from 10000 PIXELS to 11000 PIXELS for Hoverbike Controller
@@ -606,3 +607,7 @@
 + Updated description for Protogen fuel hatch
 + Changed collision type from SOLID to PLATFORM for Protogen ship teleporter
 + Reduced item aging rate from 1.0 to 0.2 for Protogen Ship Locker
++ Changed ship type from SKITTLES to HUMAN
+
+### Familiars
++ Changed ship type from SKITTLES to HUMAN

@@ -1,0 +1,98 @@
+[
+	[
+		{
+			"op" : "test",
+			"path" : "/speciesShips/protogenrace1",
+			"value" : [
+			  "/ships/protogenrace1/protogenrace1t0.structure",
+				"/ships/protogenrace1/protogenrace1t1.structure",
+				"/ships/protogenrace1/protogenrace1t2.structure",
+				"/ships/protogenrace1/protogenrace1t3.structure",
+				"/ships/protogenrace1/protogenrace1t4.structure",
+				"/ships/protogenrace1/protogenrace1t5.structure",
+				"/ships/protogenrace1/protogenrace1t6.structure",
+				"/ships/protogenrace1/protogenrace1t7.structure",
+				"/ships/protogenrace1/protogenrace1t8.structure"
+			]
+		},
+		{
+			"op" : "replace",
+			"path" : "/speciesShips/protogenrace1",
+			"value" : [
+				"/ships/human/humanT0.structure",
+				"/ships/human/humanT1.structure",
+				"/ships/human/humanT2.structure",
+				"/ships/human/humanT3.structure",
+				"/ships/human/humanT4.structure",
+				"/ships/human/humanT5.structure",
+				"/ships/human/humanT6.structure",
+				"/ships/human/humanT7.structure",
+				"/ships/human/humanT8.structure"
+			]
+		}
+	],
+	[
+		{
+			"op" : "test",
+			"path" : "/speciesShips/twilitwolves",
+			"value" : [
+				"/ships/twilitwolves/twilitwolvest0.structure",
+				"/ships/twilitwolves/twilitwolvest1.structure",
+				"/ships/twilitwolves/twilitwolvest2.structure",
+				"/ships/twilitwolves/twilitwolvest3.structure",
+				"/ships/twilitwolves/twilitwolvest4.structure",
+				"/ships/twilitwolves/twilitwolvest5.structure",
+				"/ships/twilitwolves/twilitwolvest6.structure",
+				"/ships/twilitwolves/twilitwolvest7.structure",
+				"/ships/twilitwolves/twilitwolvest8.structure"
+			]
+		},
+		{
+			"op" : "replace",
+			"path" : "/speciesShips/twilitwolves",
+			"value" : [
+				"/ships/human/humanT0.structure",
+				"/ships/human/humanT1.structure",
+				"/ships/human/humanT2.structure",
+				"/ships/human/humanT3.structure",
+				"/ships/human/humanT4.structure",
+				"/ships/human/humanT5.structure",
+				"/ships/human/humanT6.structure",
+				"/ships/human/humanT7.structure",
+				"/ships/human/humanT8.structure"
+			]
+		}
+	],
+	[
+		{
+			"op" : "test",
+			"path" : "/speciesShips/familiar",
+			"value" : [
+				"/ships/familiar/familiarT0.structure",
+				"/ships/familiar/familiarT1.structure",
+				"/ships/familiar/familiarT2.structure",
+				"/ships/familiar/familiarT3.structure",
+				"/ships/familiar/familiarT4.structure",
+				"/ships/familiar/familiarT5.structure",
+				"/ships/familiar/familiarT6.structure",
+				"/ships/familiar/familiarT7.structure",
+				"/ships/familiar/familiarT8.structure"
+			]
+		},
+		{
+			"op" : "replace",
+			"path" : "/speciesShips/familiar",
+			"value" : [
+				"/ships/human/humanT0.structure",
+				"/ships/human/humanT1.structure",
+				"/ships/human/humanT2.structure",
+				"/ships/human/humanT3.structure",
+				"/ships/human/humanT4.structure",
+				"/ships/human/humanT5.structure",
+				"/ships/human/humanT6.structure",
+				"/ships/human/humanT7.structure",
+				"/ships/human/humanT8.structure"
+			]
+		}
+	]
+]

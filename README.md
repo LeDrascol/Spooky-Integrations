@@ -99,3 +99,13 @@ New instruments added to the Chip Tunes shop
 - Novali are immune to fall damage and extreme heat, and glow like Novakids
 - Woggles can survive in any environment without an EPP
 - Peglaci are immune to extreme cold
+
+#### Ship Replacements
+Some races use the [Basic Race Template by DrPvtSkittles](https://steamcommunity.com/sharedfiles/filedetails/?id=739417362), which creates an incompatible duplicate human ship. This mod will attempt to replace that duplicate ship with the vanilla human ship. The only downside to this is loss of custom pets.
+
+This will only apply in full to **NEW** characters. Upgrading your ship  will give a partial effect, but not the full features.
+
+This applies to:
+- [Twilit Wolves](https://steamcommunity.com/sharedfiles/filedetails/?id=1818480557)
+- [Protogen Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1789115955)
+- [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
