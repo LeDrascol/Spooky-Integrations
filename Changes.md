@@ -1,3 +1,12 @@
+## Generic Race Patches
++ **The following applies to any race listing "Applied Generic Race Patches"**
++ Updated normal (casual) mode respawn text
++ Added self-crafting learn on pickup for RACE Flag
++ Renamed RACE Flag to Flag - RACE
++ Updated description for RACE fuel hatch
++ Changed collision type from SOLID to PLATFORM for RACE ship teleporter
++ Reduced item aging rate from 1.0 to 0.2 for RACE Ship Locker
+
 ## Ported from Spooky Tweaks
 ### Avali
 **Update 5**
@@ -305,7 +314,7 @@
 + Increased stats from 6-6 to 7-7 for Summoner Mech Arm
 
 ### Woggles!
-+ Renamed !*~Imagination~*! to Imagitonium
++ Renamed `!*~Imagination~*!` to Imagitonium
 + Updated description for Imagitonium to reflect it's radiation
 + Reduced fuel value from 9999 FUEL to 100 FUEL for Imagitonium
 + Changed category from Junk to Fuel for Imagitonium
@@ -378,8 +387,8 @@
 + Changed hand-use to 1H for Yellow Torch
 
 ### Novali (Race Ver.)
++ Applied Generic Race Patches
 + Added Novali racial effect Novali Endurance (`st_racialNovali`)
-+ Updated normal (casual) mode respawn text to match mod changes
 
 ### Novali (Reskin Ver.)
 + Added check for Novali reskin to use Novali racial effect
@@ -421,17 +430,10 @@
 + Added Terramart Tele-Shipments acceptable item Sulphur
 
 ### Lyceen Race
-+ Changed collision type from SOLID to PLATFORM for Lyceen ship teleporter
-+ Updated normal (casual) mode respawn text to match mod changes
-+ Updated description for Lyceen fuel hatch to match mod changes
-+ Added self-crafting learn on pickup for Lyceen Flag
-+ Renamed Lyceen Flag to Flag - Lyceen
++ Applied Generic Race Patches
 
 ### Felin
-+ Changed collision type from SOLID to PLATFORM for Felin ship teleporter
-+ Updated normal (casual) mode respawn text to match mod changes
-+ Updated description for Felin fuel hatch to match mod changes
-+ Reduced item aging rate from 1.0 to 0.2 for Felin Ship Locker
++ Applied Generic Race Patches
 + Price change from 12,500 PIXELS to 11,000 PIXELS for Catvette Controller
 + Price change from 12,500 PIXELS to 11,000 PIXELS for Flaming Catvette Controller
 + Price change from 12,500 PIXELS to 11,000 PIXELS for Pink Catvette Controller
@@ -444,17 +446,11 @@
 + Changed hand-use to 1H for Laser Lyre
 + Increased rarity rank from Common to Rare for Laser Lyre
 + Moved crafting from Wiring Station to Chip Tunes for Laser Lyre
-+ Added self-crafting learn on pickup for Felin Flag
 + Added self-crafting learn on pickup for Felin Flag (tattered)
-+ Renamed Felin Flag to Flag - Felin
 + Renamed Felin Flag (tattered) to Flag - Felin (tattered)
 
 ### Elithian Races Mod
-+ Updated normal (casual) mode respawn text for Aegi
-+ Updated normal (casual) mode respawn text for Akkimari
-+ Updated normal (casual) mode respawn text for Avikan
-+ Updated normal (casual) mode respawn text for Droden
-+ Updated normal (casual) mode respawn text for Trink
++ Applied Generic Race Patches
 + Removed ambient light effect from Enerth Flashlight
 + Removed ambient light effect from Nomada Flashlight
 + Removed ambient light effect from Trinkian Flashlight
@@ -480,18 +476,6 @@
 + Changed hand-use to 1H for Skoff Controller
 + Changed hand-use to 1H for Hoverpod Controller
 + Reduced charge time from 1.1 to 0.6 for Andra'veihan Heart
-+ Updated description for Aegi fuel hatch
-+ Updated description for Akkimari fuel hatch
-+ Updated description for Avikan fuel hatch
-+ Updated description for Trink fuel hatch
-+ Reduced item aging rate from 1.0 to 0.2 for Aegi Ship Locker
-+ Reduced item aging rate from 1.0 to 0.2 for Akkimari Ship Locker
-+ Reduced item aging rate from 1.0 to 0.2 for Avikan Ship Locker
-+ Reduced item aging rate from 1.0 to 0.2 for Trink Ship Locker
-+ Changed collision type from SOLID to PLATFORM for Aegi ship teleporter
-+ Changed collision type from SOLID to PLATFORM for Akkimari ship teleporter
-+ Changed collision type from SOLID to PLATFORM for Avikan ship teleporter
-+ Changed collision type from SOLID to PLATFORM for Trink ship teleporter
 + Changed collision type from SOLID to PLATFORM for Alliance Teleporter
 + Changed collision type from SOLID to PLATFORM for Avikan Teleporter
 + Changed collision type from SOLID to PLATFORM for Trinkian Teleporter
@@ -516,10 +500,6 @@
 + Removed 'Destroyed when broken' from Creon Embassy Teleporter
 + Removed 'Destroyed when broken' from Creon Embassy Teleporter (akkimari)
 + Removed 'Destroyed when broken' from Creon Embassy Teleporter (trink)
-+ Added self-crafting learn on pickup for Union Flag
-+ Added self-crafting learn on pickup for Covenant Flag
-+ Added self-crafting learn on pickup for Avikan Flag
-+ Added self-crafting learn on pickup for Trinkian Flag
 + Renamed Union Flag to Flag - Aeginian Union
 + Renamed Covenant Flag to Flag - Kel'chis Covenant
 + Renamed Avikan Flag to Flag - Avikan Nomada
@@ -540,12 +520,7 @@
 + Price change from 3000 PIXELS to 2000 PIXELS
 
 ### Twilit Wolves
-+ Updated normal (casual) mode respawn text
-+ Updated description for Twilit fuel hatch
-+ Changed collision type from SOLID to PLATFORM for Twilit ship teleporter
-+ Reduced item aging rate from 1.0 to 0.2 for Twilit Ship Locker
-+ Added self-crafting learn on pickup for Twilit Wolves Flag
-+ Renamed Twilit Wolves Flag to Flag - Twilit Wolves
++ Applied Generic Race Patches
 + Changed ship type from SKITTLES-HUMAN to HUMAN
 
 ### Pimp My Ride
@@ -553,7 +528,7 @@
 + Price change from 20000 PIXELS to 8000 PIXELS for Hoverboard Controller
 
 ### The Orcana
-+ Updated normal (casual) mode respawn text
++ Applied Generic Race Patches
 + Reduced projectile speed from 100 to 65 for Grappling Claw
 + Reduced rarity rank from Legendary to Uncommon for Grappling Claw
 + Price change from 3000 PIXELS to 1200 PIXELS for Grappling Claw
@@ -566,65 +541,35 @@
 + Price change from 1000 PIXELS to 2000 PIXELS for Lyre
 + Changed hand-use to 1H for Aulos
 + Changed hand-use to 1H for Lyre
-+ Updated description for Orcana fuel hatch
-+ Changed collision type from SOLID to PLATFORM for Orcana ship teleporter
-+ Reduced item aging rate from 1.0 to 0.2 for Orcana Ship Locker
 + Added Orcana racial effect SWIM BOOST
-+ Added self-crafting learn on pickup for Orcana Flag
-+ Renamed Orcana Flag to Flag - Orcana
 
 ### Fragments of Ruin
-+ Added self-crafting learn on pickup for Ruined Flag
-+ Renamed Ruined Flag to Flag - Ruin
-+ Updated description for Ruin fuel hatch
-+ Changed collision type from SOLID to PLATFORM for Ruin ship teleporter
-+ Reduced item aging rate from 1.0 to 0.2 for Ruin Ship Locker
++ Applied Generic Race Patches
 
 ### Draikin
-+ Updated normal (casual) mode respawn text
-+ Added self-crafting learn on pickup for Draikin Flag
-+ Renamed Draikin Flag to Flag - Draikin
-+ Updated description for Draikin fuel hatch
-+ Changed collision type from SOLID to PLATFORM for Draikin ship teleporter
-+ Reduced item aging rate from 1.0 to 0.2 for Draikin Ship Locker
++ Applied Generic Race Patches
 
 ### Peglaci Rebirth
++ Applied Generic Race Patches
 + Updated normal (casual) mode respawn text with racial flavor text
-+ Added self-crafting learn on pickup for Peglaci Flag
-+ Renamed Peglaci Flag to Flag - Peglaci
-+ Updated description for Peglaci fuel hatch
-+ Reduced item aging rate from 1.0 to 0.2 for Peglaci Ship Locker
 + Added Peglaci racial effect Determined (`st_racialPeglaci`)
 
 ### Protogen Race
++ Applied Generic Race Patches
 + Updated normal (casual) mode respawn text with racial flavor text
 + Updated survival mode respawn text with racial flavor text
 + Added normal (casual) mode respawn text
 + Added survival mode respawn text
-+ Added self-crafting learn on pickup for Protogen Flag
-+ Renamed Protogen Flag to Flag - Protogen
-+ Updated description for Protogen fuel hatch
-+ Changed collision type from SOLID to PLATFORM for Protogen ship teleporter
-+ Reduced item aging rate from 1.0 to 0.2 for Protogen Ship Locker
 + Changed ship type from SKITTLES-HUMAN to HUMAN
 
 ### Familiars
 + Changed ship type from SKITTLES-HUMAN to HUMAN
 
 ### GnollBound
-+ Updated normal (casual) mode respawn text
-+ Added self-crafting learn on pickup for Gnoll Flag
++ Applied Generic Race Patches
 + Renamed `*Hyena Noises*` to Flag - Gnoll
-+ Updated description for Gnoll fuel hatch
-+ Changed collision type from SOLID to PLATFORM for Gnoll ship teleporter
-+ Reduced item aging rate from 1.0 to 0.2 for Gnoll Ship Locker
 + Changed ship type from SKITTLES-GLITCH to GLITCH
 
 ### Roccoro Race Mod
-+ Updated normal (casual) mode respawn text
-+ Added self-crafting learn on pickup for Roccoro Flag
-+ Renamed Roccoro Flag to Flag - Roccoro
-+ Updated description for Roccoro fuel hatch
-+ Changed collision type from SOLID to PLATFORM for Roccoro ship teleporter
-+ Reduced item aging rate from 1.0 to 0.2 for Roccoro Ship Locker
++ Applied Generic Race Patches
 + Changed ship type from SKITTLES-HUMAN to HUMAN
