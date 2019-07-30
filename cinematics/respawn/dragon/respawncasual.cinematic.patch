@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/panels/2/text",
+    "value": "10% of Pixels Lost. Bummer."
+  },
+  {
+    "op": "replace",
+    "path": "/panels/2/text",
+    "value": "Rebuilding Body..."
+  }
+]

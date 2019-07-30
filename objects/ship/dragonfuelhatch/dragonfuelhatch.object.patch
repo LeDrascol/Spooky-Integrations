@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/objectName",
+    "value": "dragonfuelhatch"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Accepts irradiated materials for the ship's FTL dive."
+  }
+]

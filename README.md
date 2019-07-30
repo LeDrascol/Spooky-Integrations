@@ -46,6 +46,7 @@ Mods that add new races or edit existing modded ones
 - [Fragments of Ruin](https://steamcommunity.com/sharedfiles/filedetails/?id=1702704154)
 - [Draikin](https://steamcommunity.com/sharedfiles/filedetails/?id=1728604246)
 - [Peglaci Rebirth](https://steamcommunity.com/sharedfiles/filedetails/?id=1272073433)
+- [Draconis Race](https://steamcommunity.com/workshop/filedetails/?id=868165595)
 
 Skittles race mods that include ship overrides
 - [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
@@ -103,6 +104,7 @@ New instruments added to the Chip Tunes shop
 - Novali are immune to fall damage and extreme heat, and glow like Novakids
 - Woggles can survive in any environment without an EPP
 - Peglaci are immune to extreme cold
+- Draconis are immune to extreme heat and lava
 
 #### Ship Replacements
 Some races use the [Basic Race Template by DrPvtSkittles](https://steamcommunity.com/sharedfiles/filedetails/?id=739417362), which creates an incompatible duplicate human ship. This mod will attempt to replace that duplicate ship with the vanilla human ship. The only downside to this is loss of custom pets.

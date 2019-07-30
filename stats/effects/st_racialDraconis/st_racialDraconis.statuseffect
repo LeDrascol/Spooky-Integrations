@@ -1,0 +1,13 @@
+{
+  "name" : "st_racialDraconis",
+
+  "effectConfig" : {
+    "protectLava": 1,
+    "protectHeat": 1
+  },
+  "defaultDuration" : 1.0,
+
+  "scripts" : [ "st_racialDraconis.lua" ],
+
+  "label" : "Magmatic Blood"
+}

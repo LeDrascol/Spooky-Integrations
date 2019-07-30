@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/animatedParts/stateTypes/charge/states/charge/cycle",
+    "value": 1.3
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/stateTypes/charge/states/charge/cycle",
+    "value": 0.6
+  }
+]

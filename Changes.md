@@ -573,3 +573,13 @@
 ### Roccoro Race Mod
 + Applied Generic Race Patches
 + Changed ship type from SKITTLES-HUMAN to HUMAN
+
+### Draconis Race
++ Applied Generic Race Patches
++ Added Draconis racial effect Magmatic Blood (`st_racialDraconis`)
++ Reduced charge time from 1.0 to 0.6 for Ferozium Wand
++ Reduced charge time from 0.9 to 0.6 for Electric Tome
++ Reduced charge time from 1.3 to 0.6 for Dragon's Tome
++ Reduced charge time from 1.3 to 0.6 for Frozen Tome
++ Reduced charge time from 1.3 to 0.6 for Poison Tome
++ Reduced charge time from 1.3 to 0.6 for Rainbow Tome

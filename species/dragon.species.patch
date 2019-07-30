@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/kind",
+    "value": "dragon"
+  },
+  {
+    "op": "add",
+    "path": "/statusEffects",
+    "value": [ "st_racialDraconis" ]
+  }
+]
