@@ -345,15 +345,17 @@
 + Added learn on pickup to Imagitonium for Woggle Magic Staff
 + Added biome immunity HEAT to Woggles
 + Added biome immunity COLD to Woggles
-+ Updated normal (casual) mode respawn text to match mod changes
++ Updated normal (casual) mode respawn text with racial flavor text
 
 ### Avali
 + Added Avali racial effect Avali Endurance (`st_racialAvali`)
++ Updated normal (casual) mode respawn text with racial flavor text
 
 ### Familiars
 + Fixed MOD missing racial effect for Familiars
 + Added configuration support for script for familiarRacial
 + Added effect configuration for familiarRacial
++ Updated normal (casual) mode respawn text with racial flavor text
 
 ### More Staves
 + Reduced charge time from 1.4 to 0.6 for Crystal Staff

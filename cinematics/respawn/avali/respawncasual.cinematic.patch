@@ -7,6 +7,6 @@
   {
     "op": "replace",
     "path": "/panels/2/text",
-    "value": "Rebuilding Body..."
+    "value": "Downloading backup from the Nexus..."
   }
 ]
