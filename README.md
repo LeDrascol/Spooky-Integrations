@@ -49,6 +49,7 @@ Mods that add new races or edit existing modded ones
 - [Draikin](https://steamcommunity.com/sharedfiles/filedetails/?id=1728604246)
 - [Peglaci Rebirth](https://steamcommunity.com/sharedfiles/filedetails/?id=1272073433)
 - [Protogen Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1789115955)
+- [GnollBound](https://steamcommunity.com/sharedfiles/filedetails/?id=1655860448)
 
 #### Instrument Mods
 New instruments added to the Chip Tunes shop
@@ -109,3 +110,4 @@ This applies to:
 - [Twilit Wolves](https://steamcommunity.com/sharedfiles/filedetails/?id=1818480557)
 - [Protogen Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1789115955)
 - [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
+- [GnollBound](https://steamcommunity.com/sharedfiles/filedetails/?id=1655860448)

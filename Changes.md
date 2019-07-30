@@ -611,3 +611,12 @@
 
 ### Familiars
 + Changed ship type from SKITTLES to HUMAN
+
+### GnollBound
++ Updated normal (casual) mode respawn text
++ Added self-crafting learn on pickup for Gnoll Flag
++ Renamed `*Hyena Noises*` to Flag - Gnoll
++ Updated description for Gnoll fuel hatch
++ Changed collision type from SOLID to PLATFORM for Gnoll ship teleporter
++ Reduced item aging rate from 1.0 to 0.2 for Gnoll Ship Locker
++ Changed ship type from SKITTLES-GLITCH to GLITCH

@@ -94,5 +94,37 @@
 				"/ships/human/humanT8.structure"
 			]
 		}
+	],
+	[
+		{
+			"op" : "test",
+			"path" : "/speciesShips/gnolls",
+			"value" : [
+				"/ships/gnolls/gnollst0.structure",
+				"/ships/gnolls/gnollst1.structure",
+				"/ships/gnolls/gnollst2.structure",
+				"/ships/gnolls/gnollst3.structure",
+				"/ships/gnolls/gnollst4.structure",
+				"/ships/gnolls/gnollst5.structure",
+				"/ships/gnolls/gnollst6.structure",
+				"/ships/gnolls/gnollst7.structure",
+				"/ships/gnolls/gnollst8.structure"
+			]
+		},
+		{
+			"op" : "replace",
+			"path" : "/speciesShips/gnolls",
+			"value" : [
+				"/ships/glitch/glitchT0.structure",
+				"/ships/glitch/glitchT1.structure",
+				"/ships/glitch/glitchT2.structure",
+				"/ships/glitch/glitchT3.structure",
+				"/ships/glitch/glitchT4.structure",
+				"/ships/glitch/glitchT5.structure",
+				"/ships/glitch/glitchT6.structure",
+				"/ships/glitch/glitchT7.structure",
+				"/ships/glitch/glitchT8.structure"
+			]
+		}
 	]
 ]
