@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/objectName",
+    "value": "flagpeglaci"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [ "flagpeglaci" ]
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Flag - Peglaci"
+  }
+]

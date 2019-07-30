@@ -1,0 +1,12 @@
+{
+  "name" : "st_racialPeglaci",
+
+  "effectConfig" : {
+    "protectCold": 1
+  },
+  "defaultDuration" : 1.0,
+
+  "scripts" : [ "st_racialPeglaci.lua" ],
+
+  "label" : "Determined"
+}

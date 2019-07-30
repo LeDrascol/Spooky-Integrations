@@ -47,6 +47,7 @@ Mods that add new races or edit existing modded ones
 - [The Orcana](https://steamcommunity.com/sharedfiles/filedetails/?id=729432341)
 - [Fragments of Ruin](https://steamcommunity.com/sharedfiles/filedetails/?id=1702704154)
 - [Draikin](https://steamcommunity.com/sharedfiles/filedetails/?id=1728604246)
+- [Peglaci Rebirth](https://steamcommunity.com/sharedfiles/filedetails/?id=1272073433)
 
 #### Instrument Mods
 New instruments added to the Chip Tunes shop
@@ -96,3 +97,4 @@ New instruments added to the Chip Tunes shop
 - Avali are immune to fall damage and extreme cold
 - Novali are immune to fall damage and extreme heat, and glow like Novakids
 - Woggles can survive in any environment without an EPP
+- Peglaci are immune to extreme cold

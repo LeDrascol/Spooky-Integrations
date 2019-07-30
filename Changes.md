@@ -584,3 +584,12 @@
 + Updated description for Draikin fuel hatch
 + Changed collision type from SOLID to PLATFORM for Draikin ship teleporter
 + Reduced item aging rate from 1.0 to 0.2 for Draikin Ship Locker
+
+### Peglaci Rebirth
++ Updated normal (casual) mode respawn text with racial flavor text
++ Added self-crafting learn on pickup for Peglaci Flag
++ Renamed Peglaci Flag to Flag - Peglaci
++ Updated description for Peglaci fuel hatch
++ Changed collision type from SOLID to PLATFORM for Peglaci ship teleporter
++ Reduced item aging rate from 1.0 to 0.2 for Peglaci Ship Locker
++ Added Peglaci racial effect Determined (`st_racialPeglaci`)
