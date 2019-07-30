@@ -38,16 +38,18 @@ Mods that add new races or edit existing modded ones
 - [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
 - [Novali Race Ver.](https://steamcommunity.com/workshop/filedetails/?id=1386730092)
 - [Novali Reskin Ver.](https://steamcommunity.com/sharedfiles/filedetails/?id=1386469529)
-- [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
 - [Woggles!](https://steamcommunity.com/workshop/filedetails/?id=1296622347)
 - [Lyceen Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1360547769)
 - [Felin](https://steamcommunity.com/sharedfiles/filedetails/?id=729429063)
 - [Elithian Races Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=850109963)
-- [Twilit Wolves](https://steamcommunity.com/sharedfiles/filedetails/?id=1818480557)
 - [The Orcana](https://steamcommunity.com/sharedfiles/filedetails/?id=729432341)
 - [Fragments of Ruin](https://steamcommunity.com/sharedfiles/filedetails/?id=1702704154)
 - [Draikin](https://steamcommunity.com/sharedfiles/filedetails/?id=1728604246)
 - [Peglaci Rebirth](https://steamcommunity.com/sharedfiles/filedetails/?id=1272073433)
+
+Skittles race mods that include ship overrides
+- [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
+- [Twilit Wolves](https://steamcommunity.com/sharedfiles/filedetails/?id=1818480557)
 - [Protogen Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1789115955)
 - [GnollBound](https://steamcommunity.com/sharedfiles/filedetails/?id=1655860448)
 - [Roccoro Race Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1713093084)
@@ -105,11 +107,4 @@ New instruments added to the Chip Tunes shop
 #### Ship Replacements
 Some races use the [Basic Race Template by DrPvtSkittles](https://steamcommunity.com/sharedfiles/filedetails/?id=739417362), which creates an incompatible duplicate human ship. This mod will attempt to replace that duplicate ship with the vanilla human ship. The only downside to this is loss of custom pets.
 
-This will only apply in full to **NEW** characters. Upgrading your ship  will give a partial effect, but not the full features.
-
-This applies to:
-- [Twilit Wolves](https://steamcommunity.com/sharedfiles/filedetails/?id=1818480557)
-- [Protogen Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1789115955)
-- [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
-- [GnollBound](https://steamcommunity.com/sharedfiles/filedetails/?id=1655860448)
-- [Roccoro Race Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1713093084)
+This will only apply in full to **NEW** characters. Upgrading your ship  will give a partial effect, but not the full features. May not allow you to craft ship parts from Better Ships.
