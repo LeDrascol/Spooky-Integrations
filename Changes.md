@@ -576,3 +576,11 @@
 + Updated description for Ruin fuel hatch
 + Changed collision type from SOLID to PLATFORM for Ruin ship teleporter
 + Reduced item aging rate from 1.0 to 0.2 for Ruin Ship Locker
+
+### Draikin
++ Updated normal (casual) mode respawn text
++ Added self-crafting learn on pickup for Draikin Flag
++ Renamed Draikin Flag to Flag - Draikin
++ Updated description for Draikin fuel hatch
++ Changed collision type from SOLID to PLATFORM for Draikin ship teleporter
++ Reduced item aging rate from 1.0 to 0.2 for Draikin Ship Locker

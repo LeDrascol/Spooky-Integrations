@@ -46,6 +46,7 @@ Mods that add new races or edit existing modded ones
 - [Twilit Wolves](https://steamcommunity.com/sharedfiles/filedetails/?id=1818480557)
 - [The Orcana](https://steamcommunity.com/sharedfiles/filedetails/?id=729432341)
 - [Fragments of Ruin](https://steamcommunity.com/sharedfiles/filedetails/?id=1702704154)
+- [Draikin](https://steamcommunity.com/sharedfiles/filedetails/?id=1728604246)
 
 #### Instrument Mods
 New instruments added to the Chip Tunes shop

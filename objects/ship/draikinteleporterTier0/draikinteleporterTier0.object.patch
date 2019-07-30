@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/objectName",
+    "value": "draikinteleporterTier0"
+  },
+  {
+    "op": "replace",
+    "path": "/orientations/0/collision",
+    "value": "platform"
+  }
+]
