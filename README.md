@@ -48,6 +48,7 @@ Mods that add new races or edit existing modded ones
 - [Fragments of Ruin](https://steamcommunity.com/sharedfiles/filedetails/?id=1702704154)
 - [Draikin](https://steamcommunity.com/sharedfiles/filedetails/?id=1728604246)
 - [Peglaci Rebirth](https://steamcommunity.com/sharedfiles/filedetails/?id=1272073433)
+- [Protogen Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1789115955)
 
 #### Instrument Mods
 New instruments added to the Chip Tunes shop

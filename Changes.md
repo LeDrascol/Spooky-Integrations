@@ -595,3 +595,14 @@
 + Changed collision type from SOLID to PLATFORM for Peglaci ship teleporter
 + Reduced item aging rate from 1.0 to 0.2 for Peglaci Ship Locker
 + Added Peglaci racial effect Determined (`st_racialPeglaci`)
+
+### Protogen Race
++ Updated normal (casual) mode respawn text with racial flavor text
++ Updated survival mode respawn text with racial flavor text
++ Added normal (casual) mode respawn text
++ Added survival mode respawn text
++ Added self-crafting learn on pickup for Protogen Flag
++ Renamed Protogen Flag to Flag - Protogen
++ Updated description for Protogen fuel hatch
++ Changed collision type from SOLID to PLATFORM for Protogen ship teleporter
++ Reduced item aging rate from 1.0 to 0.2 for Protogen Ship Locker

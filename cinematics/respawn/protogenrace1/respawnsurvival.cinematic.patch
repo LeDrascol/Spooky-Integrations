@@ -1,0 +1,38 @@
+[
+  {
+    "op": "test",
+    "path": "/panels/2/text",
+    "value": "30% of Pixels Lost"
+  },
+  {
+    "op": "replace",
+    "path": "/panels/2/text",
+    "value": "Paying Axion for respawn permission..."
+  },
+  {
+    "op": "add",
+    "path": "/panels/-",
+    "value": {
+      "startTime": 4.5,
+      "endTime": 10.5,
+      "drawables": [],
+      "fontSize": 14,
+      "text": "Upgrade to a Primagen today for only ^green;$2000^reset;!",
+      "textPosition": {
+        "position": [ 30, 0 ],
+        "vAnchor": "top",
+        "wrapWidth": 218
+      },
+      "keyframes": [
+        {
+          "timecode": 0,
+          "alpha": 1,
+          "zoom": 1,
+          "position": [478, 269],
+          "frame": 0,
+          "textPercentage": 1
+        }
+      ]
+    }
+  }
+]
