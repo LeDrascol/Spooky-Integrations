@@ -1,5 +1,10 @@
 [
   [
+    { "op": "test", "path": "/kind", "value": "avali" },
+    { "op": "test", "path": "/statusEffects", "inverse": true },
+    { "op": "add", "path": "/statusEffects", "value": [] }
+  ],
+  [
     {
       "op": "test",
       "path": "/kind",
@@ -13,8 +18,8 @@
     },
     {
       "op": "add",
-      "path": "/statusEffects",
-      "value": [ "st_racialAvali" ]
+      "path": "/statusEffects/-",
+      "value": "st_racialAvali"
     }
   ],
   [
@@ -25,8 +30,8 @@
     },
     {
       "op": "add",
-      "path": "/statusEffects",
-      "value": [ "st_racialNovali" ]
+      "path": "/statusEffects/-",
+      "value": "st_racialNovali"
     }
   ]
 ]

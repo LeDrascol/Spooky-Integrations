@@ -1,5 +1,10 @@
 [
   [
+    { "op": "test", "path": "/kind", "value": "familiar" },
+    { "op": "test", "path": "/statusEffects", "inverse": true },
+    { "op": "add", "path": "/statusEffects", "value": [] }
+  ],
+  [
     {
       "op": "test",
       "path": "/kind",
@@ -7,8 +12,13 @@
     },
     {
       "op": "add",
-      "path": "/statusEffects",
-      "value": [ "novakidglow", "st_racialFamiliar" ]
+      "path": "/statusEffects/-",
+      "value": "novakidglow"
+    },
+    {
+      "op": "add",
+      "path": "/statusEffects/-",
+      "value": "st_racialFamiliar"
     }
   ],
   [

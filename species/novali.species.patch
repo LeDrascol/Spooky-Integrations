@@ -1,12 +1,19 @@
 [
-  {
-    "op": "test",
-    "path": "/kind",
-    "value": "novali"
-  },
-  {
-    "op": "add",
-    "path": "/statusEffects/-",
-    "value": "st_racialNovali"
-  }
+  [
+    { "op": "test", "path": "/kind", "value": "novali" },
+    { "op": "test", "path": "/statusEffects", "inverse": true },
+    { "op": "add", "path": "/statusEffects", "value": [] }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/kind",
+      "value": "novali"
+    },
+    {
+      "op": "add",
+      "path": "/statusEffects/-",
+      "value": "st_racialNovali"
+    }
+  ]
 ]

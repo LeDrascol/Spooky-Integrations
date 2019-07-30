@@ -1,12 +1,19 @@
 [
-  {
-    "op": "test",
-    "path": "/kind",
-    "value": "dragon"
-  },
-  {
-    "op": "add",
-    "path": "/statusEffects",
-    "value": [ "st_racialDraconis" ]
-  }
+  [
+    { "op": "test", "path": "/kind", "value": "dragon" },
+    { "op": "test", "path": "/statusEffects", "inverse": true },
+    { "op": "add", "path": "/statusEffects", "value": [] }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/kind",
+      "value": "dragon"
+    },
+    {
+      "op": "add",
+      "path": "/statusEffects/-",
+      "value": "st_racialDraconis"
+    }
+  ]
 ]
