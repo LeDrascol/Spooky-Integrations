@@ -34,7 +34,7 @@ The mods listed below are patched to use Spooky Tweaks' balance
 - [Pimp My Ride](https://steamcommunity.com/sharedfiles/filedetails/?id=896508953)
 
 #### Race Mods
-Mods that add new races or edit exsiting modded ones
+Mods that add new races or edit existing modded ones
 - [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
 - [Novali Race Ver.](https://steamcommunity.com/workshop/filedetails/?id=1386730092)
 - [Novali Reskin Ver.](https://steamcommunity.com/sharedfiles/filedetails/?id=1386469529)
@@ -45,6 +45,7 @@ Mods that add new races or edit exsiting modded ones
 - [Elithian Races Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=850109963)
 - [Twilit Wolves](https://steamcommunity.com/sharedfiles/filedetails/?id=1818480557)
 - [The Orcana](https://steamcommunity.com/sharedfiles/filedetails/?id=729432341)
+- [Fragments of Ruin](https://steamcommunity.com/sharedfiles/filedetails/?id=1702704154)
 
 #### Instrument Mods
 New instruments added to the Chip Tunes shop

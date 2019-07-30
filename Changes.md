@@ -569,3 +569,10 @@
 + Added Orcana racial effect SWIM BOOST
 + Added self-crafting learn on pickup for Orcana Flag
 + Renamed Orcana Flag to Flag - Orcana
+
+### Fragments of Ruin
++ Added self-crafting learn on pickup for Ruined Flag
++ Renamed Ruined Flag to Flag - Ruin
++ Updated description for Ruin fuel hatch
++ Changed collision type from SOLID to PLATFORM for Ruin ship teleporter
++ Reduced item aging rate from 1.0 to 0.2 for Ruin Ship Locker
