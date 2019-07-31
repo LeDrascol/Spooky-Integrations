@@ -1,0 +1,22 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "2a03leadzs"
+  },
+  {
+    "op": "add",
+    "path": "/price",
+    "value": 2000
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  }
+]

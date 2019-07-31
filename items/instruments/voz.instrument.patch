@@ -1,0 +1,22 @@
+[
+  {
+    "op": "voz",
+    "path": "/itemName",
+    "value": "voz"
+  },
+  {
+    "op": "add",
+    "path": "/price",
+    "value": 2000
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  }
+]

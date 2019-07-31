@@ -583,3 +583,11 @@
 + Reduced charge time from 1.3 to 0.6 for Frozen Tome
 + Reduced charge time from 1.3 to 0.6 for Poison Tome
 + Reduced charge time from 1.3 to 0.6 for Rainbow Tome
+
+### RealKeys Luthier
++ **For all 34 instruments:**
++ Added Chip Tunes crafting
++ Increased crafting cost from 1 PIXEL to 2000 PIXELS
++ Changed hand-use to 1H
++ Changed rarity rank to Rare
++ Price change to 2000 PIXELS

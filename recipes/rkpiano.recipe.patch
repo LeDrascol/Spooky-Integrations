@@ -1,0 +1,22 @@
+[
+  {
+    "op": "test",
+    "path": "/groups/1",
+    "value": "luthiercraftingtable"
+  },
+  {
+    "op": "replace",
+    "path": "/input/0/count",
+    "value": 2000
+  },
+  {
+    "op": "add",
+    "path": "/groups/-",
+    "value": "sa_instrument"
+  },
+  {
+    "op": "add",
+    "path": "/groups/-",
+    "value": "inst_instruplus"
+  }
+]

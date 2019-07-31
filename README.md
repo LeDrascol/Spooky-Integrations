@@ -69,6 +69,7 @@ New instruments added to the Chip Tunes shop
 - [Annoying Dog Instrument](https://steamcommunity.com/sharedfiles/filedetails/?id=733366979)
 - [Mighty Music Instruments](https://steamcommunity.com/sharedfiles/filedetails/?id=740921702)
 - [More Instruments](https://steamcommunity.com/sharedfiles/filedetails/?id=745572180)
+- [RealKeys Luthier](https://steamcommunity.com/sharedfiles/filedetails/?id=787043263)
 
 ## Project Highlights
 **Universal Changes**
