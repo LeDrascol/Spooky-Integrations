@@ -589,6 +589,8 @@
 + Updated description for Concentrated Erchius Fuel
 + Updated description for Quantum fuel
 + Added Woggle racial description to Gas Pump
++ Restricted Gas Pump shop item Liquid Spookium
++ Restricted Gas Pump shop item Crystal Spookium
 
 ### RealKeys Luthier
 + **For all 34 instruments:**

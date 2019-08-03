@@ -13,5 +13,15 @@
     "op": "add",
     "path": "/woggleDescription",
     "value": "A shop for other ship captains. How could they have harvested so much Imagitonium from us?"
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/3/prerequisiteQuest",
+    "value": "shopitemlock"
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/4/prerequisiteQuest",
+    "value": "shopitemlock"
   }
 ]
