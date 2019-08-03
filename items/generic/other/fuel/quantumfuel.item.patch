@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "quantumfuel"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A wildly efficient fuel source, said to be invented by the Protectorate."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Imagitonium Canister"
+  }
+]

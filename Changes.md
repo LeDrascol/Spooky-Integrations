@@ -583,6 +583,12 @@
 + Reduced charge time from 1.3 to 0.6 for Frozen Tome
 + Reduced charge time from 1.3 to 0.6 for Poison Tome
 + Reduced charge time from 1.3 to 0.6 for Rainbow Tome
++ Changed shop type from MERCHANT to VENDINGMACHINE for Gas Pump
++ Renamed Concentrated Erchius Fuel to Concentrated Spookium
++ Renamed Quantum fuel to Imagitonium Canister
++ Updated description for Concentrated Erchius Fuel
++ Updated description for Quantum fuel
++ Added Woggle racial description to Gas Pump
 
 ### RealKeys Luthier
 + **For all 34 instruments:**

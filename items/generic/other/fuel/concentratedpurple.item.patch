@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "concentratedpurple"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Liquid Spookium in concentrate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Concentrated Spookium"
+  }
+]

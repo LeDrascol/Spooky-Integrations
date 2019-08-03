@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/objectName",
+    "value": "gaspumpdragon"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/config",
+    "value": "/interface/windowconfig/vendingmachine.config"
+  },
+  {
+    "op": "add",
+    "path": "/woggleDescription",
+    "value": "A shop for other ship captains. How could they have harvested so much Imagitonium from us?"
+  }
+]
