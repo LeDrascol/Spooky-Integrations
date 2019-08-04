@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "darkblurpledye"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A massively popular dye that treats you like an object to be sold. Your choice of outfit will be sold to advertisers."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "novablurpledye"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "All your friends are doing it. Don't you want to be cool?"
+  }
+]

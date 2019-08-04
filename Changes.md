@@ -599,3 +599,7 @@
 + Changed hand-use to 1H
 + Changed rarity rank to Rare
 + Price change to 2000 PIXELS
+
+### Blurple Everything
++ **For all 8 dyes:**
++ Updated description with improved snark

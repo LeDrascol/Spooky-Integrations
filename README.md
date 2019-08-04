@@ -32,6 +32,7 @@ The mods listed below are patched to use Spooky Tweaks' balance
 - [Compact Stations](https://steamcommunity.com/sharedfiles/filedetails/?id=1483560141)
 - [Summer Sale Soda Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1780994893)
 - [Pimp My Ride](https://steamcommunity.com/sharedfiles/filedetails/?id=896508953)
+- [Blurple Everything](https://steamcommunity.com/sharedfiles/filedetails/?id=1381690033)
 
 #### Race Mods
 Mods that add new races or edit existing modded ones
