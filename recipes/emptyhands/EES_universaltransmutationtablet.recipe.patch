@@ -1,0 +1,11 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "EES_universaltransmutationtablet"
+  },
+  {
+    "op": "remove",
+    "path": "/input/3"
+  }
+]

@@ -603,3 +603,7 @@
 ### Blurple Everything
 + **For all 8 dyes:**
 + Updated description with improved snark
+
+### EE for Starbound
++ Removed crafting ingredient UNIVERAL EMC from Universal Transmutation Tablet
++ Removed quest requirement from `The universal transmutation tablet` - Gather UNIVERAL EMC

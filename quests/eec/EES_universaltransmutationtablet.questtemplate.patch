@@ -1,0 +1,11 @@
+[
+  {
+    "op": "test",
+    "path": "id",
+    "value": "EES_universaltransmutationtablet"
+  },
+  {
+    "op": "remove",
+    "path": "/scriptConfig/conditions/3"
+  }
+]
