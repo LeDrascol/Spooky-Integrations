@@ -607,3 +607,13 @@
 ### EE for Starbound
 + Removed crafting ingredient UNIVERAL EMC from Universal Transmutation Tablet
 + Removed quest requirement from `The universal transmutation tablet` - Gather UNIVERAL EMC
+
+### Submarine
++ **For all 4 vehicle controllers:**
++ Changed hand-use to 1H
++ Price change from 35,000 PIXELS to 25,000 PIXELS
++ **For all 4 vehicles:**
++ Removed status effect `invulnerable`
++ Removed status effect `liquidimmunity`
++ Removed status effect `breathimmunity`
++ Added status effect `breathprotectionvehicle`

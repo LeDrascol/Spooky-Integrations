@@ -1,0 +1,22 @@
+[
+  {
+    "op": "test",
+    "path": "/name",
+    "value": "greensub"
+  },
+  {
+    "op": "replace",
+    "path": "/loungePositions/drivingSeatPosition/statusEffects",
+    "value": [{ "stat" : "breathprotectionvehicle", "amount" : 1 }]
+  },
+  {
+    "op": "replace",
+    "path": "/loungePositions/frontSeatPosition/statusEffects",
+    "value": [{ "stat" : "breathprotectionvehicle", "amount" : 1 }]
+  },
+  {
+    "op": "replace",
+    "path": "/loungePositions/middleSeatPosition/statusEffects",
+    "value": [{ "stat" : "breathprotectionvehicle", "amount" : 1 }]
+  }
+]

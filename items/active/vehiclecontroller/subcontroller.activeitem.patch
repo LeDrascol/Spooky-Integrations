@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "subcontroller"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 25000
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  }
+]
